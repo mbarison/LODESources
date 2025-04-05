@@ -1,17 +1,18 @@
-'''
+"""
 File:    Provider.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: ORM model for data providers
 
 Created on: 2023-06-19
-'''
+"""
 
 from sqlalchemy.ext.hybrid import hybrid_property
 
-from meta import *
+from .meta import *
 
-print('importing module %s' % __name__)
+print("importing module %s" % __name__)
+
 
 class Provider(Base):
     __tablename__ = "providers"
@@ -26,5 +27,12 @@ class Provider(Base):
         return self.provider_name_en if self.provider_name_en else self.provider_name_fr
 
     def __repr__(self):
-        return "<Provider(provider_uid='%s', provider_name_en='%s', provider_name_fr='%s', provider_url='%s')>" % (
-            self.uid, self.provider_name_en, self.provider_name_fr, self.provider_url)
+        return (
+            "<Provider(provider_uid='%s', provider_name_en='%s', provider_name_fr='%s', provider_url='%s')>"
+            % (
+                self.uid,
+                self.provider_name_en,
+                self.provider_name_fr,
+                self.provider_url,
+            )
+        )
