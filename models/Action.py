@@ -7,7 +7,7 @@ Purpose: ORM model for data retrieval actions
 Created on: 2023-06-19
 """
 
-from .meta import *
+from .meta import Base, Mapped, mapped_column
 
 print("importing module %s" % __name__)
 

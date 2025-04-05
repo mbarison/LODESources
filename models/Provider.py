@@ -9,7 +9,7 @@ Created on: 2023-06-19
 
 from sqlalchemy.ext.hybrid import hybrid_property
 
-from .meta import *
+from .meta import Base, Mapped, mapped_column, Optional
 
 print("importing module %s" % __name__)
 
