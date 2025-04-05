@@ -1,0 +1,66 @@
+[
+    {
+        "uid": 1,
+        "format_name": "json"
+    },
+    {
+        "uid": 2,
+        "format_name": "csv"
+    },
+    {
+        "uid": 3,
+        "format_name": "xml"
+    },
+    {
+        "uid": 4,
+        "format_name": "xls"
+    },
+    {
+        "uid": 5,
+        "format_name": "xlsx"
+    },
+    {
+        "uid": 6,
+        "format_name": "shapefile"
+    },
+    {
+        "uid": 7,
+        "format_name": "kml"
+    },
+    {
+        "uid": 8,
+        "format_name": "kmz"
+    },
+    {
+        "uid": 9,
+        "format_name": "geotiff"
+    },
+    {
+        "uid": 10,
+        "format_name": "geodatabase"
+    },
+    {
+        "uid": 11,
+        "format_name": "wms"
+    },
+    {
+        "uid": 12,
+        "format_name": "html"
+    },
+    {
+        "uid": 13,
+        "format_name": "pdf"
+    },
+    {
+        "uid": 14,
+        "format_name": "txt"
+    },
+    {
+        "uid": 15,
+        "format_name": "zip"
+    },
+    {
+        "uid": 16,
+        "format_name": "other"
+    }
+]

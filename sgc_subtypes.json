@@ -1,0 +1,470 @@
+[
+    {
+        "sgc_type_uid": 2,
+        "sgc_subtype_uid": 1,
+        "sgc_subtype_abbr": "P",
+        "sgc_subtype_name_en": "Province",
+        "sgc_subtype_name_fr": "Province"
+    },
+    {
+        "sgc_type_uid": 2,
+        "sgc_subtype_uid": 2,
+        "sgc_subtype_abbr": "T",
+        "sgc_subtype_name_en": "Territory",
+        "sgc_subtype_name_fr": "Territoire"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 1,
+        "sgc_subtype_abbr": "CDR",
+        "sgc_subtype_name_en": "Census division",
+        "sgc_subtype_name_fr": "Division de recensement"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 2,
+        "sgc_subtype_abbr": "CT",
+        "sgc_subtype_name_en": "County",
+        "sgc_subtype_name_fr": "Comté"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 3,
+        "sgc_subtype_abbr": "CTY",
+        "sgc_subtype_name_en": "County"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 4,
+        "sgc_subtype_abbr": "DIS",
+        "sgc_subtype_name_en": "District"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 5,
+        "sgc_subtype_abbr": "DM",
+        "sgc_subtype_name_en": "District municipality"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 6,
+        "sgc_subtype_abbr": "MRC",
+        "sgc_subtype_name_fr": "Municipalité régionale de comté"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 7,
+        "sgc_subtype_abbr": "RD",
+        "sgc_subtype_name_en": "Regional district"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 8,
+        "sgc_subtype_abbr": "REG",
+        "sgc_subtype_name_en": "Region"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 9,
+        "sgc_subtype_abbr": "RM",
+        "sgc_subtype_name_en": "Regional municipality"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 10,
+        "sgc_subtype_abbr": "TÉ",
+        "sgc_subtype_name_fr": "Territoire équivalent"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 11,
+        "sgc_subtype_abbr": "TER",
+        "sgc_subtype_name_en": "Territory",
+        "sgc_subtype_name_fr": "Territoire"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_subtype_uid": 12,
+        "sgc_subtype_abbr": "UC",
+        "sgc_subtype_name_en": "United counties"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 1,
+        "sgc_subtype_abbr": "C",
+        "sgc_subtype_name_en": "City",
+        "sgc_subtype_name_fr": "Cité" 
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 2,
+        "sgc_subtype_abbr": "CC",
+        "sgc_subtype_name_en": "Chartered community"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 3,
+        "sgc_subtype_abbr": "CG",
+        "sgc_subtype_name_en": "Community government"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 4,
+        "sgc_subtype_abbr": "CN",
+        "sgc_subtype_name_en": "Crown colony",
+        "sgc_subtype_name_fr": "Colonie de la Couronne"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 5,
+        "sgc_subtype_abbr": "CT",
+        "sgc_subtype_name_fr": "Canton (municipalité de)"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 6,
+        "sgc_subtype_abbr": "CU",
+        "sgc_subtype_name_fr": "Cantons unis (municipalité de)"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 7,
+        "sgc_subtype_abbr": "CV",
+        "sgc_subtype_name_en": "City",
+        "sgc_subtype_name_fr": "Ville"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 8,
+        "sgc_subtype_abbr": "CY",
+        "sgc_subtype_name_en": "City"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 9,
+        "sgc_subtype_abbr": "DM",
+        "sgc_subtype_name_en": "District municipality"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 10,
+        "sgc_subtype_abbr": "FD",
+        "sgc_subtype_name_en": "Fire district"    
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 11,
+        "sgc_subtype_abbr": "GR",
+        "sgc_subtype_name_fr": "Gouvernement régional"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 12,
+        "sgc_subtype_abbr": "HAM",
+        "sgc_subtype_name_en": "Hamlet"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 13,
+        "sgc_subtype_abbr": "ID",
+        "sgc_subtype_name_en": "Improvement district"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 14,
+        "sgc_subtype_abbr": "IGD",
+        "sgc_subtype_name_en": "Indian government district"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 15,
+        "sgc_subtype_abbr": "IM",
+        "sgc_subtype_name_en": "Island municipality"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 16,
+        "sgc_subtype_abbr": "IRI",
+        "sgc_subtype_name_en": "Indian reserve",
+        "sgc_subtype_name_fr": "Réserve indienne"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 17,
+        "sgc_subtype_abbr": "LGD",
+        "sgc_subtype_name_en": "Local government district"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 18,
+        "sgc_subtype_abbr": "M",
+        "sgc_subtype_name_en": "Municipality",
+        "sgc_subtype_name_fr": "Municipalité"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 19,
+        "sgc_subtype_abbr": "MD",
+        "sgc_subtype_name_en": "Municipal district"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 20,
+        "sgc_subtype_abbr": "MRM",
+        "sgc_subtype_name_en": "Regional municipality",
+        "sgc_subtype_name_fr": "Municipalité régionale"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 21,
+        "sgc_subtype_abbr": "MÉ",
+        "sgc_subtype_name_fr": "Municipalité"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 22,
+        "sgc_subtype_abbr": "MU",
+        "sgc_subtype_name_en": "Municipality"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 23,
+        "sgc_subtype_abbr": "NH",
+        "sgc_subtype_name_en": "Northern hamlet"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 24,
+        "sgc_subtype_abbr": "NL",
+        "sgc_subtype_name_en": "Nisga'a land"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 25,
+        "sgc_subtype_abbr": "NO",
+        "sgc_subtype_name_en": "Unorganized",
+        "sgc_subtype_name_fr": "Non organisé"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 26,
+        "sgc_subtype_abbr": "NV",
+        "sgc_subtype_name_en": "Northern village"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 27,
+        "sgc_subtype_abbr": "P",
+        "sgc_subtype_name_en": "Parish",
+        "sgc_subtype_name_fr": "Paroisse (municipalité de)"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 28,
+        "sgc_subtype_abbr": "PE",
+        "sgc_subtype_name_fr": "Paroisse (municipalité de)"  
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 29,
+        "sgc_subtype_abbr": "RCR",
+        "sgc_subtype_name_en": "Rural community",
+        "sgc_subtype_name_fr": "Communauté rurale"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 30,
+        "sgc_subtype_abbr": "RDA",
+        "sgc_subtype_name_en": "Regional district electoral area"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 31,
+        "sgc_subtype_abbr": "RGM",
+        "sgc_subtype_name_en": "Regional municipality"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 32,
+        "sgc_subtype_abbr": "RM",
+        "sgc_subtype_name_en": "Rural municipality"    
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 33,
+        "sgc_subtype_abbr": "RV",
+        "sgc_subtype_name_en": "Resort village"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 34,
+        "sgc_subtype_abbr": "RMU",
+        "sgc_subtype_name_en": "Resort municipality"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 35,
+        "sgc_subtype_abbr": "S-É",
+        "sgc_subtype_name_en": "Indian settlement",
+        "sgc_subtype_name_fr": "Établissement indien"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 36,
+        "sgc_subtype_abbr": "SA",
+        "sgc_subtype_name_en": "Special area"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 37,
+        "sgc_subtype_abbr": "SC",
+        "sgc_subtype_name_en": "Subdivision of county municipality",
+        "sgc_subtype_name_fr": "Sous-division de municipalité de comté"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 38,
+        "sgc_subtype_abbr": "SÉ",
+        "sgc_subtype_name_en": "Settlement",
+        "sgc_subtype_name_fr": "Établissement"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 39,
+        "sgc_subtype_abbr": "SET",
+        "sgc_subtype_name_en": "Settlement"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 40,
+        "sgc_subtype_abbr": "SG",
+        "sgc_subtype_name_en": "Self-government",
+        "sgc_subtype_name_fr": "Autonomie gouvernementale"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 41,
+        "sgc_subtype_abbr": "SM",
+        "sgc_subtype_name_en": "Specialized municipality"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 42,
+        "sgc_subtype_abbr": "SNO",
+        "sgc_subtype_name_en": "Subdivision of unorganized",
+        "sgc_subtype_name_fr": "Sous-division de non organisé"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 43,
+        "sgc_subtype_abbr": "SV",
+        "sgc_subtype_name_en": "Summer village"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 44,
+        "sgc_subtype_abbr": "T",
+        "sgc_subtype_name_en": "Town"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 45,
+        "sgc_subtype_abbr": "TAL",
+        "sgc_subtype_name_en": "Tla'amin land"                  
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 46,
+        "sgc_subtype_abbr": "TC",
+        "sgc_subtype_name_fr": "Terres réservées aux Cris"    
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 47,
+        "sgc_subtype_abbr": "TI",
+        "sgc_subtype_name_fr": "Terre inuite"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 48,
+        "sgc_subtype_abbr": "TK",
+        "sgc_subtype_name_fr": "Terres réservées aux Naskapis"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 49,
+        "sgc_subtype_abbr": "TL",
+        "sgc_subtype_name_en": "Teslin land"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 50,
+        "sgc_subtype_abbr": "TP",
+        "sgc_subtype_name_en": "Township"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 51,
+        "sgc_subtype_abbr": "TV",
+        "sgc_subtype_name_en": "Town",
+        "sgc_subtype_name_fr": "Ville"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 52,
+        "sgc_subtype_abbr": "TWL",
+        "sgc_subtype_name_en": "Tsawwassen lands"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 53,
+        "sgc_subtype_abbr": "V",
+        "sgc_subtype_name_fr": "Ville"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 54,
+        "sgc_subtype_abbr": "VC",
+        "sgc_subtype_name_fr": "Village cri"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 55,
+        "sgc_subtype_abbr": "VK",
+        "sgc_subtype_name_fr": "Village naskapi"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 56,
+        "sgc_subtype_abbr": "VL",
+        "sgc_subtype_name_en": "Village",
+        "sgc_subtype_name_fr": "Village"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_subtype_uid": 57,
+        "sgc_subtype_abbr": "VN",
+        "sgc_subtype_name_fr": "Village nordique"
+    },
+    {
+        "sgc_type_uid": 13,
+        "sgc_subtype_uid": 1,
+        "sgc_subtype_abbr": "B",
+        "sgc_subtype_name_en": "Census metropolitan area",
+        "sgc_subtype_name_fr": "Région métropolitaine de recensement"
+    },
+    {
+        "sgc_type_uid": 14,
+        "sgc_subtype_uid": 1,
+        "sgc_subtype_abbr": "D",
+        "sgc_subtype_name_en": "Census agglomeration with no census tracts",
+        "sgc_subtype_name_fr": "Agglomération de recensement sans secteur de recensement"
+    },
+    {
+        "sgc_type_uid": 14,
+        "sgc_subtype_uid": 2,
+        "sgc_subtype_abbr": "K",
+        "sgc_subtype_name_en": "Census agglomeration with census tracts",
+        "sgc_subtype_name_fr": "Agglomération de recensement subdivisée en secteurs de recensement"    
+    }
+]

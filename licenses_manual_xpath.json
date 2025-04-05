@@ -1,0 +1,244 @@
+[
+    {
+        "uid": "e67523eb5a02399f8a8dae31010c64549c5f7ad4349aac0758a60dac752ddbbf",
+        "License or Terms of Use": "https://www.albertahealthservices.ca/about/Page635.aspx",
+        "Open": "No",
+        "Attribution Statement": "© Alberta Health Services 2023",
+        "xpath": "//section[@id=\"extContentBodyTop\"]"
+    },
+    {
+        "uid": "7d40dbecabf207fc916ab2e8c9da62d90422748c5dcc91218152b8be9c90aab6",
+        "License or Terms of Use": "https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - City of Calgary."
+    },
+    {
+        "uid": "2d1965dcc5ed79da837c899039b5e4d852c77359cde3362736dc88c55aacbbb2",
+        "License or Terms of Use": "https://open.alberta.ca/licence",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - Alberta.",
+        "xpath": "//article[@class=\"module\"]"
+    },
+    {
+        "uid": "22028dc96f9f4bc8dc1ac9e7c539b026a177559ba31cf05e42e1d0715f2bcb51",
+        "License or Terms of Use": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - British Columbia.",
+        "xpath-donotuse": "//div[@id=\"body\"]"
+    },
+    {
+        "uid": "92c3d8497e5f1483fa956b58842149496d79edc4225bbf5265cafe2ea0beb18c",
+        "License or Terms of Use": "",
+        "Open": "No",
+        "Attribution Statement": ""
+    },
+    {
+        "uid": "e508f980ba5e36cbdb03631451bc53081ade80ff5feb1c2b62b24c8e939f9140",
+        "License or Terms of Use": "https://www.ierha.ca/conditions-of-use/",
+        "Open": "No",
+        "Attribution Statement": "©1999 -2023 Interlake Eastern RHA. All Rights Reserved.",
+        "xpath": "//section[@id=\"extContentBodyTop\"]"
+    },
+    {
+        "uid": "d6dc5de2c032fa3ce173adecdfe35c5f20c163ef2ffd5b39f1e434acfcc19ec3",
+        "License or Terms of Use": "Not found",
+        "Open": "No",
+        "Attribution Statement": "© 2023 Northern Health Region. northernhealthregion.com"
+    },
+    {
+        "uid": "19884c69eb39eb1a5ce32258f91f4280cc726ec385b4e4abb6293c836cc9b2ef",
+        "License or Terms of Use": "https://www.prairiemountainhealth.ca/conditions-of-use/",
+        "Open": "No",
+        "Attribution Statement": "© Prairie Mountain Health 2013 - 2023",
+        "xpath": "//section[@class=\"entry-content\"]"
+    },
+    {
+        "uid": "e422b82a61bcea923c2af19bb4f6e6cb049bdba45236e50c66b018fdfa273083",
+        "License or Terms of Use": "https://www.southernhealth.ca/en/disclaimer/",
+        "Open": "No",
+        "Attribution Statement": "Copyright © 2023 Southern Health-Santé Sud",
+        "xpath": "//div[@class=\"main group\"]"
+    },
+    {
+        "uid": "0c074aaa78f504401703a5630de5f37e844cc5ba9d5835495523330279de9bb7",
+        "License or Terms of Use": "https://wrha.mb.ca/terms-of-use/",
+        "Open": "No",
+        "Attribution Statement": "© 2023 Winnipeg Regional Health Authority",
+        "xpath": "//section[@class=\"entry-content\"]"
+    },
+    {
+        "uid": "3c5bf429e6f4baa456eb15b840e364225204e68314f1a22c3aebc207f8122d45",
+        "License or Terms of Use": "https://www.gov.mb.ca/legal/copyright.html",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information from the Manitoba government, licensed under the OpenMB Information and Data Use Licence (Manitoba.ca/OpenMB)",
+        "xpath": "//div[@class=\"content\"]"
+    },
+    {
+        "uid": "97d9802db0839480429cca4ce35d35ff9ff03c5a3022c0e99ed5236e1fee6ef6",
+        "License or Terms of Use": "http://www.snb.ca/e/2000/data-E.html",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - New Brunswick.",
+        "xpath": "//div[@class=\"maincontent\"]"
+    },
+    {
+        "uid": "758406646a6cb01b85bfe8d437e6f41266fdfc1ea9171f415714fd9e72ae4e81",
+        "License or Terms of Use": "https://ago-item-storage.s3.us-east-1.amazonaws.com/3ec310926cbd436cbaa609d8ee9fac15/Open_Data_Terms_of_Use.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFoeMShDjMBI0qOy5gxf53BOdXkZJjl34u%2F%2FA%2FzH3Xo2AiEAmrReBWAuAse%2BMr3ba0bnHxfdXedgxbR8yRG2bMJDzoMqzQQIOBAAGgw2MDQ3NTgxMDI2NjUiDAgX7IdMiKK8gto6MyqqBAV%2FsgdVq6hty6wEirWQsPVMyZ70hNILZJvJTSE%2BC6HzBP6yTgNHy3YHVKMFIgg2q2reE2%2BMcuWmUgb79l6bVNq4CukXKvwDW1TsVCziz%2F%2FxSF2RHN0dM2mjXlDyFOxr9SN7R89d0Xaik89hWvek8G2XxbFlNVYemxUsBkRtnQ%2B2BTA%2FMvojMf%2BcFGYTL0rdVXURMwMM3vqDeJVw1QvXyt9bNMGvThC%2B6Ih5vvbJ5rG60AMlnFv8MZySkdQtWYeijtXwVeqtiPDmNzJyxiPwxBqGNKR%2FPCs%2BdcIZdnafKa71Y2U4Mjlbtgtr%2F2rOwfOuzfiYwTaF5vzjUnsljWE98SfhKwnv7lTiKTh7tUNh8nlWcafZ93sDYNx%2FjCxknm3bvfNEKhhYs8UMtyH%2BqdKIuPcm2xUNR99U0ydSjM%2Bf9PtoGm9Yvn8BL0wX%2BWvkhHIhj6jfXwgZu0wKbu7cSslF6KvERXM0Z1cPASTbGiLSI28IwZXEpjUsb45q4Icl4NtA2v2ExjS6WbCPUfSnOaAhWWsLdb2EDI%2FSPQ6XawiNu0ZJxanblB25RYCkTVGsylz%2FG1lDWYr4eS0K4lICv0d4HF3kPt0e0cA%2BWqLSyTxHn%2BVM1vNTaFcGBYplw35yh0%2FQJJHXoddPI8FYYfjDShexJzKYYC9uyv%2Berz2aA6rmeKmm%2FB9UfnDJCuRuPE1uV5mP6nfYcXY%2Fd8eQSzrNPObqsg%2Bt5mkbIxodFPAkMPeel54GOqkB4%2Fb0SCNS4YA0xp4KB0MASufhmudrGPOLtqys32OjGqAqGEhjBRVeeg%2FsZgGf5HUpdh7HbacNor3X1GxiKnr6r0KZ5siihsIrg9AQ21NYuHnERlADJt4ZPS9wQgPG06XlC7dM0HGFYzNfue9iWBhrEeJLPKGi9Sy6z%2BYwPRFcXIcTw3nXRILOo7aVuDvYpGi%2BG4aJ%2BByy3c26Ghc0nLmTTPdZxHPp6%2FpL9w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230116T232945Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAYZTTEKKERY3IHCGQ%2F20230116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=753630910c1f2d0e0648ec77ea0e49c5623da5d658fbf17413e2242cd25b41e2",
+        "Open": "No",
+        "Attribution Statement": "These datasets are publicly available from the City of Moncton under these Terms of Use."
+    },
+    {
+        "uid": "abb875799c238946837046cd9f059bf71da7d833b89617f320a7258b579033e2",
+        "License or Terms of Use": "Not found",
+        "Open": "No",
+        "Attribution Statement": "Not found"
+    },
+    {
+        "uid": "a2b96b48516e8377ce03890168f4c418d5397d64b819643a3821dd1ee8e7d046",
+        "License or Terms of Use": "https://www.easternhealth.ca/about-us/disclaimer/",
+        "Open": "No",
+        "Attribution Statement": "© Eastern Health. All rights reserved",
+        "xpath": "//article[1][@id=\"post-6684\"]"
+    },
+    {
+        "uid": "e5a3d174970f539f93b096ee78586cedd2fe4e29df2675547a4e58e47d31e0b9",
+        "License or Terms of Use": "Not found",
+        "Open": "No",
+        "Attribution Statement": "© Copyright 2016 Western Health"
+    },
+    {
+        "uid": "8d9855f2657ebb747bd9d754e5e55315f063912f7d5b5fd624df01378608ff48",
+        "License or Terms of Use": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=licence",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - Newfoundland and Labrador.",
+        "xpath": "//div[@class=\"row-fluid\"]"
+    },
+    {
+        "uid": "c60c4c638421a0c0cb52ab9b048e087521bc0d21006c24a21724fe0831b9b3a6",
+        "License or Terms of Use": "Not found",
+        "Open": "No",
+        "Attribution Statement": "© 2022 Nova Scotia"
+    },
+    {
+        "uid": "597bfaa25c09d6b34e2c24fd41166b36eb90940d3fb85ddac43c4046d4484910",
+        "License or Terms of Use": "https://novascotia.ca/opendata/licence.asp",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - Nova Scotia"
+    },
+    {
+        "uid": "782aa2d0e9e86d1f4174b0f7e936f66699b527967912b3dbdb961a939e5f5474",
+        "License or Terms of Use": "https://www.gov.nt.ca/terms",
+        "Open": "No",
+        "Attribution Statement": "Not found"
+    },
+    {
+        "uid": "c14507032326d921ff25057608929ce55ab47bb861a461c855f033cf19ad2c85",
+        "License or Terms of Use": "https://open.toronto.ca/open-data-license/",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - Toronto.",
+        "xpath": "//div[@class=\"main-content\"]"
+    },
+    {
+        "uid": "2a4cfc46ef3808fc66ef1de59eb334e2509a82957643d5f793171b0dbed8d496",
+        "License or Terms of Use": "https://www.ontario.ca/page/open-government-licence-ontario",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - Ontario.",
+        "xpath": "//article[@role=\"article\"]/"
+    },
+    {
+        "uid": "b22711ec4d5aedf8039c8149859098facbb3721e7f74c311e8789be488e250aa",
+        "License or Terms of Use": "https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions",
+        "Open": "Yes",
+        "Attribution Statement": "Contains public sector Data made available under the City of Hamilton's Open Data Licence",
+        "xpath": "//div[@class=\"block-content block-content--type-text block-content--22181 block-content--view-mode-full\"]"
+    },
+    {
+        "uid": "eded3ef2af9bc6ea67749ee16135ec63f2b1b2b4791e1c3fc0a9997d54fa65d1",
+        "License or Terms of Use": "https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#section-7d58affa-59a3-47f2-932d-ccb75000cefc",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - City of Ottawa.",
+        "xpath-donotuse": "//div[2][@class=\"paragraph paragraph--type--text-block paragraph--view-mode--default\"]"
+    },
+    {
+        "uid": "d521eb5298fdb5d7c98c5b448623d049db07784e1ad87a37979e460d088985b3",
+        "License or Terms of Use": "https://www.durham.ca/en/regional-government/resources/Documents/OpenDataLicenceAgreement.pdf",
+        "Open": "Yes",
+        "Attribution Statement": "Contains public sector Information made available under The Regional Municipality of Durham's Open Data Licence "
+    },
+    {
+        "uid": "8e54bf40b3c2f806584bc2bf765403f615df70cbab792d76cbad6b91790c5aee",
+        "License or Terms of Use": "http://insights-york.opendata.arcgis.com/datasets/york-region-open-data-licence",
+        "Open": "Yes",
+        "Attribution Statement": "Contains public sector information made available under The Regional Municipality of York's Open Data Licence"
+    },
+    {
+        "uid": "d8e7bb7f3c528d15e522258efb96bcc77fc9560f557cb8de704d5217d193b83c",
+        "License or Terms of Use": "http://data.open.guelph.ca/pages/open-government-licence",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information provided by the City of Guelph under an open government license",
+        "xpath-donotuse": "//div[@class=\"ckanext-pages-content\"]" 
+    },
+    {
+        "uid": "9dc0daec09505f1ad9faf69efaa818012c0d9d0b2228d7083f5af148f06e02f3",
+        "License or Terms of Use": "https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island",
+        "Open": "Yes",
+        "Attribution Statement": "Contains information licensed under the Open Government Licence - Prince Edward Island",
+        "xpath": "//div[@class=\"maincontentmain\"]"
+    },
+    {
+        "uid": "c215198ccaf2a1421756108520c0ab603ae9cb71ca2b4f29262da9f7f6ccf4c9",
+        "License or Terms of Use": "",
+        "Open": "No",
+        "Attribution Statement": "Not found"
+    },
+    {
+        "uid": "d9ffa147a13b91089b6eae109347e59abf05f585a19ada5235283a7434218155",
+        "License or Terms of Use": "https://santemontreal.qc.ca/en/enregistrements/menu-barre-pied-de-page/",
+        "Open": "No",
+        "Attribution Statement": "© Gouvernment du Québec, 2016"
+    },
+    {
+        "uid": "e1eb5b82c367f317361838d4ac50f6bcffb074f34c2ddff05ee0cf4f0ccc0f5f",
+        "License or Terms of Use": "https://www.donneesquebec.ca/licence/#cc-by",
+        "Open": "Yes",
+        "Attribution Statement": "Licensed from the City of Gatineau under a Creative Commons CC-BY license."
+    },
+    {
+        "uid": "432440ff9ead0d2f2b8e447e62ddcbbf30784ddefb50b32d534d648c6393515a",
+        "License or Terms of Use": "https://www.donneesquebec.ca/licence/#cc-by",
+        "Open": "Yes",
+        "Attribution Statement": "CC BY 4.0"
+    },
+    {
+        "uid": "56a0f7d76196a1845dd4c00b161fccfcebf9433f26aa7f57a235f34745cd5eab",
+        "License or Terms of Use": "https://creativecommons.org/licenses/by/4.0/legalcode.fr",
+        "Open": "Yes",
+        "Attribution Statement": "CC BY 4.0"
+    },
+    {
+        "uid": "791b5c936733bd4ba7c8c56f3a6f417854047827cb9644d39201dacd6e0ab78a",
+        "License or Terms of Use": "https://www.saskhealthauthority.ca/terms-use-privacy",
+        "Open": "No",
+        "Attribution Statement": "© Saskatchewan Health Authority 2023"
+    },
+    {
+        "uid": "e693d6ede39097def20d77ef8cbf0794176b5889bc0c75b147d3a2fb7bc1e911",
+        "License or Terms of Use": "https://www.saskatchewan.ca/copyright",
+        "Open": "No",
+        "Attribution Statement": "© 2021, Government of Saskatchewan.",
+        "xpath": "//section[@class=\"general-content\"]"
+    },
+    {
+        "uid": "705a63d84af1243b99597ebd26e8062b8f2853c53d1b0929739d909c84adf556",
+        "License or Terms of Use": "https://yukonhospitals.ca/en/terms-of-use",
+        "Open": "No",
+        "Attribution Statement": "© 2022 Yukon Hospital Corporation",
+        "xpath": "//article[@about=\"/en/terms-of-use\"]"
+    },
+    {
+        "uid": "024bb1372d5b309be0fdce0d3514b9fcc254da613fb5dc5e9d5b8e2f06d23ea1",
+        "License or Terms of Use": "https://www.gov.nt.ca/en/open-government-licence-northwest-territories",
+        "Open": "Yes",
+        "Attribution Statement": "Open Government Licence Northwest Territories",
+        "xpath": "//div[@class=\"ds-1col node node-page view-mode-full  clearfix\"]"
+    }
+]

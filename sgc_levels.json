@@ -1,0 +1,102 @@
+[
+    {
+        "sgc_type_uid": 0,
+        "sgc_type_name_en": "Country",
+        "sgc_type_name_fr": "Pays"
+    },
+    {
+        "sgc_type_uid": 1,
+        "sgc_type_name_en": "Geographical region of Canada",
+        "sgc_type_name_fr": "Région géographique du Canada"
+    },
+    {
+        "sgc_type_uid": 2,
+        "sgc_type_name_en": "Province or Territory",
+        "sgc_type_name_fr": "Province ou territoire"
+    },
+    {
+        "sgc_type_uid": 3,
+        "sgc_type_name_en": "Federal Electoral District",
+        "sgc_type_name_fr": "Circonscription électorale fédérale"
+    },
+    {
+        "sgc_type_uid": 4,
+        "sgc_type_name_en": "Provincial Electoral District",
+        "sgc_type_name_fr": "Circonscription électorale provinciale"
+    },
+    {
+        "sgc_type_uid": 5,
+        "sgc_type_name_en": "Census Division",
+        "sgc_type_name_fr": "Division de recensement"
+    },
+    {
+        "sgc_type_uid": 6,
+        "sgc_type_name_en": "Census Subdivision",
+        "sgc_type_name_fr": "Sous-division de recensement"
+    },
+    {
+        "sgc_type_uid": 7,
+        "sgc_type_name_en": "Designated Place",
+        "sgc_type_name_fr": "Lieu désigné"
+    },
+    {
+        "sgc_type_uid": 8,
+        "sgc_type_name_en": "Aggregate Dissemination Area",
+        "sgc_type_name_fr": "Secteur de diffusion par regroupement"
+    },
+    {
+        "sgc_type_uid": 9,
+        "sgc_type_name_en": "Dissemination Area",
+        "sgc_type_name_fr": "Secteur de diffusion"
+    },
+    {
+        "sgc_type_uid": 10,
+        "sgc_type_name_en": "Dissemination Block",
+        "sgc_type_name_fr": "Bloc de diffusion"
+    },
+    {
+        "sgc_type_uid": 11,
+        "sgc_type_name_en": "Forward Sortation Area",
+        "sgc_type_name_fr": "Région de tri préliminaire"
+    },
+    {
+        "sgc_type_uid": 12,
+        "sgc_type_name_en": "Postal Code",
+        "sgc_type_name_fr": "Code postal"
+    },
+    {
+        "sgc_type_uid": 13,
+        "sgc_type_name_en": "Census Metropolitan Area",
+        "sgc_type_name_fr": "Région métropolitaine de recensement"
+    },
+    {
+        "sgc_type_uid": 14,
+        "sgc_type_name_en": "Census Agglomeration",
+        "sgc_type_name_fr": "Agglomération de recensement"
+    },
+    {
+        "sgc_type_uid": 15,
+        "sgc_type_name_en": "Census Metropolitan Influence Zone",
+        "sgc_type_name_fr": "Zone d'influence métropolitaine de recensement"
+    },
+    {
+        "sgc_type_uid": 16,
+        "sgc_type_name_en": "Economic Region",
+        "sgc_type_name_fr": "Région économique"
+    },
+    {
+        "sgc_type_uid": 17,
+        "sgc_type_name_en": "Census Agricultural Region",
+        "sgc_type_name_fr": "Région agricole de recensement"
+    },
+    {
+        "sgc_type_uid": 18,
+        "sgc_type_name_en": "Provincial North",
+        "sgc_type_name_fr": "Nord provincial"
+    },
+    {
+        "sgc_type_uid": 19,
+        "sgc_type_name_en": "Provincial South",
+        "sgc_type_name_fr": "Sud provincial"
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "uid": "1a7f7cd712329dff75bf813582c3ca4aadba1069af2f0d34fc9c8f6129657cce",
+        "Region": "Alberta",
+        "Region Type": "Provincial",
+        "Province": "AB",
+        "DGUID": "2021A000248"
+    },
+    {
+        "uid": "a401e83f626058993d0dd9868d53371b45bb6d501148f54a10eb2885fd221584",
+        "Region": "Calgary",
+        "Region Type": "Municipal",
+        "Province": "AB"
+    },
+    {
+        "uid": "03ed08ff6483f16f21d811e7b2e189439fe3a60cff3d01f915c99f6a7bce8d6e",
+        "Region": "British Columbia",
+        "Region Type": "Provincial",
+        "Province": "BC",
+        "DGUID": "2021A000259"
+    },
+    {
+        "uid": "901b29118b95aa5fabff22a24a4af3dddbecf121426c1d1eb41a3cec97966b95",
+        "Region": "Canada",
+        "Region Type": "National",
+        "Province": "Canada"
+    },
+    {
+        "uid": "ab2e7b2ed3b009b1f3f351f6a6fee33ef3b051d77f4bb4b38b7c18cf285a7c5f",
+        "Region": "Interlake-Eastern Region",
+        "Region Type": "Municipal",
+        "Province": "MB"
+    },
+    {
+        "uid": "53fff5985d74781cfa618ba16a7eb74fa0d35a8fe6686a793841ceda5b36fb51",
+        "Region": "Northern Manitoba",
+        "Region Type": "Municipal",
+        "Province": "MB"
+    },
+    {
+        "uid": "eb566a7cc4280318d67e7316389cc3d3637f7db4a9339554791002cf75b33317",
+        "Region": "Manitoba",
+        "Region Type": "Provincial",
+        "Province": "MB",
+        "DGUID": "2021A000246"
+    },
+    {
+        "uid": "7e10b4670df19fe83fcb1eeeeb633c84134dfb37d5caccd4a01b04cbd3b9ab7f",
+        "Region": "South of Winnipeg",
+        "Region Type": "Municipal",
+        "Province": "MB"
+    },
+    {
+        "uid": "aa7b232b622ce594a5c4138782f2f664c3b0f14264a6568afc6cc67f547f4c94",
+        "Region": "Winnipeg",
+        "Region Type": "Municipal",
+        "Province": "MB"
+    },
+    {
+        "uid": "048e344ffeff8950e0de2b52a3927fae87d8e5ce87f393d0e3761937addf8255",
+        "Region": "Manitoba",
+        "Region Type": "Provincial",
+        "Province": "MB",
+        "DGUID": "2021A000246"
+    },
+    {
+        "uid": "f49c9da9608d3f8346b2c24d6469a2ea1c4a38ca474455b3e26df9d918bc9d03",
+        "Region": "New Brunswick",
+        "Region Type": "Provincial",
+        "Province": "NB",
+        "DGUID": "2021A000213"
+    },
+    {
+        "uid": "1161131e69ce159f54e7a64d0d4b1ad65cc96cc60990f0504b55c2c851f2e118",
+        "Region": "Moncton",
+        "Region Type": "Municipal",
+        "Province": "NB"
+    },
+    {
+        "uid": "a03bf5313887c0eddc2c9e79af97cf71c1bc9dc952b427d59457526b55c6f8da",
+        "Region": "Buchans, Gander Area, Grand Falls-Windsor Area, Coast of Bays, Kittiwake Coast",
+        "Region Type": "Municipal",
+        "Province": "NL"
+    },
+    {
+        "uid": "49879ab4b4c44275ccc81ef8be3782337532762a199f4fb3c7aca3103beaf88c",
+        "Region": "Eastern Newfoundland",
+        "Region Type": "Municipal",
+        "Province": "NL"
+    },
+    {
+        "uid": "fa607bc6f9baed60fd4864d8f229c3554bc4117b8b81873394643e7e7099146c",
+        "Region": "Labrador-Grenfell",
+        "Region Type": "Municipal",
+        "Province": "NL"
+    },
+    {
+        "uid": "3039e85194662794e680f8d957b022bcbcdfcbbe9bb84f3ba93202eb1f1036e1",
+        "Region": "Western Newfoundland",
+        "Region Type": "Municipal",
+        "Province": "NL"
+    },
+    {
+        "uid": "97362c86d6f21baa4d8f2d784f97d30fb9f8e24eafb0bef3009a802ed2ec423e",
+        "Region": "Newfoundland and Labrador",
+        "Region Type": "Provincial",
+        "Province": "NL",
+        "DGUID": "2021A000210"
+    },
+    {
+        "uid": "ce39f6f5f1212e6ee24fcde8416e5f990b9ee97572c6b45724a33dfae4dfab35",
+        "Region": "Nova Scotia",
+        "Region Type": "Provincial",
+        "Province": "NS",
+        "DGUID": "2021A000212"
+    },
+    {
+        "uid": "db1f77aff69f05d40fb95e80cbdd514d91bdd139a25e36e595ab3d86c4626f9f",
+        "Region": "Northwest Territories",
+        "Region Type": "Territorial",
+        "Province": "NT",
+        "DGUID": "2021A000261"
+    },
+    {
+        "uid": "9b2de2b00a9c2a1698202e2b9a6b4e17834f8727281b0a2c2a844b5b16d1bde5",
+        "Region": "Nunavut",
+        "Region Type": "Territorial",
+        "Province": "NU",
+        "DGUID": "2021A000262"
+    },
+    {
+        "uid": "68342e7d25b9f77adfe22770c0110c855f1a09b1062626969b07b17126ba1ab6",
+        "Region": "Toronto",
+        "Region Type": "Municipal",
+        "Province": "ON"
+    },
+    {
+        "uid": "72e5898f1ab94e93f212e14b7671db9343240c3e6ca68966c3499bafabeebbf0",
+        "Region": "Ontario",
+        "Region Type": "Provincial",
+        "Province": "ON",
+        "DGUID": "2021A000235"
+    },
+    {
+        "uid": "c0b38ee3ab48c514155a114b6652dfbc590fd2ba6a2c7b7a8cf7df63925e1048",
+        "Region": "Hamilton",
+        "Region Type": "Municipal",
+        "Province": "ON"
+    },
+    {
+        "uid": "1db3f377b98be92c6df4981841dd3181dd7be09f971806f17df46edc4df2219c",
+        "Region": "Ottawa",
+        "Region Type": "Municipal",
+        "Province": "ON"
+    },
+    {
+        "uid": "3c51f3aa9ee6f526bec5862613b4c08bc66baa4c4e6dfbfcbe99c4b0c8dc77ff",
+        "Region": "Durham",
+        "Region Type": "Municipal",
+        "Province": "ON"
+    },
+    {
+        "uid": "c030c62c0e2ba83d5b1ccb2bfda6837d02f2239602b72905cfb42327336315a9",
+        "Region": "York Region",
+        "Region Type": "Municipal",
+        "Province": "ON"
+    },
+    {
+        "uid": "69414faaab7b679c7f88e48c2bc0cb93601037339d0ac2c69a6d2a87fe96d4c6",
+        "Region": "Guelph",
+        "Region Type": "Municipal",
+        "Province": "ON"
+    },
+    {
+        "uid": "49498c6d569756d5245850617f7ace23a9efa2184fb027514a3610b13c6e2f60",
+        "Region": "Prince Edward Island",
+        "Region Type": "Provincial",
+        "Province": "PE",
+        "DGUID": "2021A000211"
+    },
+    {
+        "uid": "3e5c5947705d306a8165cf1d6f323bea8ddaf052a7546a63bf2b20e60f71c9ee",
+        "Region": "Santé Montréal",
+        "Region Type": "Municipal",
+        "Province": "QC"
+    },
+    {
+        "uid": "a2fee979a74601b2aee36d89b41ccaf41830d9338aac52d573a156bbf77ee7fc",
+        "Region": "Québec",
+        "Region Type": "Provincial",
+        "Province": "QC",
+        "DGUID": "2021A000224"
+    },
+    {
+        "uid": "27b08d66bf63204fa830ecfd81bf13bbffacbef11152fede533d23571cf6672e",
+        "Region": "Québec City",
+        "Region Type": "Municipal",
+        "Province": "QC"
+    },
+    {
+        "uid": "8692053b1d16b65b24135bd63d8ce91fee918b4759fa0dc6c7b70468719e6876",
+        "Region": "Gatineau",
+        "Region Type": "Municipal",
+        "Province": "QC"
+    },
+    {
+        "uid": "a7bf4568de53c4a0e3565d26a5aaa8942df7dc35362d6a82da99336cd5cf0576",
+        "Region": "Saskatchewan",
+        "Region Type": "Provincial",
+        "Province": "SK",
+        "DGUID": "2021A000247"
+    },
+    {
+        "uid": "88a52742ac16c6dca7f3b5f8aeb930c6f2892843ffb8acab454fd1c69b2e613f",
+        "Region": "Yukon Territory",
+        "Region Type": "Territorial",
+        "Province": "YT",
+        "DGUID": "2021A000260"
+    }
+]

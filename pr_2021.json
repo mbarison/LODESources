@@ -1,0 +1,119 @@
+[
+    {
+        "DGUID": "2021A000210",
+        "PRUID": "10",
+        "PRCODE": "NL",
+        "PRENAME": "Newfoundland and Labrador",
+        "PRFNAME": "Terre-Neuve-et-Labrador",
+        "PREABBR": "N.L.",
+        "PRFABBR": "T.-N.-L."
+    },
+    {
+        "DGUID": "2021A000211",
+        "PRUID": "11",
+        "PRCODE": "PE",
+        "PRENAME": "Prince Edward Island",
+        "PRFNAME": "Île-du-Prince-Édouard",
+        "PREABBR": "P.E.I.",
+        "PRFABBR": "Î.-P.-É."
+    },
+    {
+        "DGUID": "2021A000212",
+        "PRUID": "12",
+        "PRCODE": "NS",
+        "PRENAME": "Nova Scotia",
+        "PRFNAME": "Nouvelle-Écosse",
+        "PREABBR": "N.S.",
+        "PRFABBR": "N.-É."
+    },
+    {
+        "DGUID": "2021A000213",
+        "PRUID": "13",
+        "PRCODE": "NB",
+        "PRENAME": "New Brunswick",
+        "PRFNAME": "Nouveau-Brunswick",
+        "PREABBR": "N.B.",
+        "PRFABBR": "N.-B."
+    },
+    {
+        "DGUID": "2021A000224",
+        "PRUID": "24",
+        "PRCODE": "QC",
+        "PRENAME": "Quebec",
+        "PRFNAME": "Québec",
+        "PREABBR": "Que.",
+        "PRFABBR": "Qc"
+    },
+    {
+        "DGUID": "2021A000235",
+        "PRUID": "35",
+        "PRCODE": "ON",
+        "PRENAME": "Ontario",
+        "PRFNAME": "Ontario",
+        "PREABBR": "Ont.",
+        "PRFABBR": "Ont."
+    },
+    {
+        "DGUID": "2021A000246",
+        "PRUID": "46",
+        "PRCODE": "MB",
+        "PRENAME": "Manitoba",
+        "PRFNAME": "Manitoba",
+        "PREABBR": "Man.",
+        "PRFABBR": "Man."
+    },
+    {
+        "DGUID": "2021A000247",
+        "PRUID": "47",
+        "PRCODE": "SK",
+        "PRENAME": "Saskatchewan",
+        "PRFNAME": "Saskatchewan",
+        "PREABBR": "Sask.",
+        "PRFABBR": "Sask."
+    },
+    {
+        "DGUID": "2021A000248",
+        "PRUID": "48",
+        "PRCODE": "AB",
+        "PRENAME": "Alberta",
+        "PRFNAME": "Alberta",
+        "PREABBR": "Alta.",
+        "PRFABBR": "Alb."
+    },
+    {
+        "DGUID": "2021A000259",
+        "PRUID": "59",
+        "PRCODE": "BC",
+        "PRENAME": "British Columbia",
+        "PRFNAME": "Colombie-Britannique",
+        "PREABBR": "B.C.",
+        "PRFABBR": "C.-B."
+    },
+    {
+        "DGUID": "2021A000260",
+        "PRUID": "60",
+        "PRCODE": "YT",
+        "PRENAME": "Yukon",
+        "PRFNAME": "Yukon",
+        "PREABBR": "Y.T.",
+        "PRFABBR": "Yn"
+    },
+    {
+        "DGUID": "2021A000261",
+        "PRUID": "61",
+        "PRCODE": "NT",
+        "PRENAME": "Northwest Territories",
+        "PRFNAME": "Territoires du Nord-Ouest",
+        "PREABBR": "N.W.T.",
+        "PRFABBR": "T.N.-O."
+    },
+    {
+        "DGUID": "2021A000262",
+        "PRUID": "62",
+        "PRCODE": "NU",
+        "PRENAME": "Nunavut",
+        "PRFNAME": "Nunavut",
+        "PREABBR": "Nvt.",
+        "PRFABBR": "Nt"
+    }
+]

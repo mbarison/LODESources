@@ -1,0 +1,72 @@
+[
+    {
+        "domain_uid": 1,
+        "domain_name_en": "Healthcare Facilities",
+        "domain_name_fr": "Établissements de soins de santé"
+    },
+    {
+        "domain_uid": 2,
+        "domain_name_en": "Educational Facilities",
+        "domain_name_fr": "Établissements d'enseignement"
+    },
+    {
+        "domain_uid": 3,
+        "domain_name_en": "Cultural and Art Facilities",
+        "domain_name_fr": "Installations culturelles et artistiques"
+    },
+    {
+        "domain_uid": 4,
+        "domain_name_en": "Sports and Recreational Facilities",
+        "domain_name_fr": "Installations sportives et récréatives"
+    },
+    {
+        "domain_uid": 5,
+        "domain_name_en": "Greenhouses",
+        "domain_name_fr": "Serres"
+    },
+    {
+        "domain_uid": 6,
+        "domain_name_en": "Road Traffic",
+        "domain_name_fr": "Circulation routière"
+    },
+    {
+        "domain_uid": 7,
+        "domain_name_en": "Parks",
+        "domain_name_fr": "Parcs"        
+    },
+    {
+        "domain_uid": 8,
+        "domain_name_en": "Tree Canopy",
+        "domain_name_fr": "Canopée des arbres"        
+    },    
+    {
+        "domain_uid": 9,
+        "domain_name_en": "Marine and Coastal Ecosystems",
+        "domain_name_fr": "Écosystèmes marins et côtiers"        
+    },    
+    {
+        "domain_uid": 10,
+        "domain_name_en": "Air Pollution",
+        "domain_name_fr": "Pollution atmosphérique"        
+    },    
+    {
+        "domain_uid": 11,
+        "domain_name_en": "Industrial Zones",
+        "domain_name_fr": "Zones industrielles"        
+    },    
+    {
+        "domain_uid": 12,
+        "domain_name_en": "Sewage",
+        "domain_name_fr": "Eaux usées"        
+    },    
+    {
+        "domain_uid": 13,
+        "domain_name_en": "Wastewater Effluents",
+        "domain_name_fr": "Effluents d'eaux usées"        
+    },    
+    {
+        "domain_uid": 14,
+        "domain_name_en": "Electric Charging Stations",
+        "domain_name_fr": "Bornes de recharge"        
+    }
+]

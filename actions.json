@@ -1,0 +1,26 @@
+[
+    {
+        "uid": 1,
+        "action": "direct download"
+    },
+    {
+        "uid": 2,
+        "action": "scrape"
+    },
+    {
+        "uid": 3,
+        "action": "contact provider"
+    },
+    {
+        "uid": 4,
+        "action": "ESRI portal"
+    },
+    {
+        "uid": 5,
+        "action": "access API"
+    },
+    {
+        "uid": 6,
+        "action": "other"
+    }
+]

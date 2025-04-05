@@ -1,0 +1,1760 @@
+[
+    {
+        "DGUID": "2021A00031205",
+        "CDUID": "1205",
+        "CDNAME": "Annapolis",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031206",
+        "CDUID": "1206",
+        "CDNAME": "Lunenburg",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031207",
+        "CDUID": "1207",
+        "CDNAME": "Kings",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031208",
+        "CDUID": "1208",
+        "CDNAME": "Hants",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031209",
+        "CDUID": "1209",
+        "CDNAME": "Halifax",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031210",
+        "CDUID": "1210",
+        "CDNAME": "Colchester",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031211",
+        "CDUID": "1211",
+        "CDNAME": "Cumberland",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031212",
+        "CDUID": "1212",
+        "CDNAME": "Pictou",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031213",
+        "CDUID": "1213",
+        "CDNAME": "Guysborough",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031214",
+        "CDUID": "1214",
+        "CDNAME": "Antigonish",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031215",
+        "CDUID": "1215",
+        "CDNAME": "Inverness",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031001",
+        "CDUID": "1001",
+        "CDNAME": "Division No.  1",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031002",
+        "CDUID": "1002",
+        "CDNAME": "Division No.  2",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031003",
+        "CDUID": "1003",
+        "CDNAME": "Division No.  3",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031004",
+        "CDUID": "1004",
+        "CDNAME": "Division No.  4",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031005",
+        "CDUID": "1005",
+        "CDNAME": "Division No.  5",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031006",
+        "CDUID": "1006",
+        "CDNAME": "Division No.  6",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031007",
+        "CDUID": "1007",
+        "CDNAME": "Division No.  7",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031008",
+        "CDUID": "1008",
+        "CDNAME": "Division No.  8",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031009",
+        "CDUID": "1009",
+        "CDNAME": "Division No.  9",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031010",
+        "CDUID": "1010",
+        "CDNAME": "Division No. 10",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031011",
+        "CDUID": "1011",
+        "CDNAME": "Division No. 11",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00031101",
+        "CDUID": "1101",
+        "CDNAME": "Kings",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031102",
+        "CDUID": "1102",
+        "CDNAME": "Queens",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031103",
+        "CDUID": "1103",
+        "CDNAME": "Prince",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031201",
+        "CDUID": "1201",
+        "CDNAME": "Shelburne",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031202",
+        "CDUID": "1202",
+        "CDNAME": "Yarmouth",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031203",
+        "CDUID": "1203",
+        "CDNAME": "Digby",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031204",
+        "CDUID": "1204",
+        "CDNAME": "Queens",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00032405",
+        "CDUID": "2405",
+        "CDNAME": "Bonaventure",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032406",
+        "CDUID": "2406",
+        "CDNAME": "Avignon",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032407",
+        "CDUID": "2407",
+        "CDNAME": "La Matapédia",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032408",
+        "CDUID": "2408",
+        "CDNAME": "La Matanie",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032409",
+        "CDUID": "2409",
+        "CDNAME": "La Mitis",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032410",
+        "CDUID": "2410",
+        "CDNAME": "Rimouski-Neigette",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032411",
+        "CDUID": "2411",
+        "CDNAME": "Les Basques",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032412",
+        "CDUID": "2412",
+        "CDNAME": "Rivière-du-Loup",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032413",
+        "CDUID": "2413",
+        "CDNAME": "Témiscouata",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032415",
+        "CDUID": "2415",
+        "CDNAME": "Charlevoix-Est",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032416",
+        "CDUID": "2416",
+        "CDNAME": "Charlevoix",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032414",
+        "CDUID": "2414",
+        "CDNAME": "Kamouraska",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032417",
+        "CDUID": "2417",
+        "CDNAME": "L'Islet",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032418",
+        "CDUID": "2418",
+        "CDNAME": "Montmagny",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00031216",
+        "CDUID": "1216",
+        "CDNAME": "Richmond",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031217",
+        "CDUID": "1217",
+        "CDNAME": "Cape Breton",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031218",
+        "CDUID": "1218",
+        "CDNAME": "Victoria",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00031301",
+        "CDUID": "1301",
+        "CDNAME": "Saint John",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031302",
+        "CDUID": "1302",
+        "CDNAME": "Charlotte",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031303",
+        "CDUID": "1303",
+        "CDNAME": "Sunbury",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031304",
+        "CDUID": "1304",
+        "CDNAME": "Queens",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031305",
+        "CDUID": "1305",
+        "CDNAME": "Kings",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031306",
+        "CDUID": "1306",
+        "CDNAME": "Albert",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031307",
+        "CDUID": "1307",
+        "CDNAME": "Westmorland",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031308",
+        "CDUID": "1308",
+        "CDNAME": "Kent",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031309",
+        "CDUID": "1309",
+        "CDNAME": "Northumberland",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031310",
+        "CDUID": "1310",
+        "CDNAME": "York",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031311",
+        "CDUID": "1311",
+        "CDNAME": "Carleton",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031312",
+        "CDUID": "1312",
+        "CDNAME": "Victoria",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031313",
+        "CDUID": "1313",
+        "CDNAME": "Madawaska",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031314",
+        "CDUID": "1314",
+        "CDNAME": "Restigouche",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00031315",
+        "CDUID": "1315",
+        "CDNAME": "Gloucester",
+        "CDTYPE": "CT"
+    },
+    {
+        "DGUID": "2021A00032401",
+        "CDUID": "2401",
+        "CDNAME": "Communauté maritime des Îles-de-la-Madeleine",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032402",
+        "CDUID": "2402",
+        "CDNAME": "Le Rocher-Percé",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032403",
+        "CDUID": "2403",
+        "CDNAME": "La Côte-de-Gaspé",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032404",
+        "CDUID": "2404",
+        "CDNAME": "La Haute-Gaspésie",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032464",
+        "CDUID": "2464",
+        "CDNAME": "Les Moulins",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032423",
+        "CDUID": "2423",
+        "CDNAME": "Québec",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032420",
+        "CDUID": "2420",
+        "CDNAME": "L'Île-d'Orléans",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032421",
+        "CDUID": "2421",
+        "CDNAME": "La Côte-de-Beaupré",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032440",
+        "CDUID": "2440",
+        "CDNAME": "Les Sources",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032441",
+        "CDUID": "2441",
+        "CDNAME": "Le Haut-Saint-François",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032442",
+        "CDUID": "2442",
+        "CDNAME": "Le Val-Saint-François",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032443",
+        "CDUID": "2443",
+        "CDNAME": "Sherbrooke",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032444",
+        "CDUID": "2444",
+        "CDNAME": "Coaticook",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032445",
+        "CDUID": "2445",
+        "CDNAME": "Memphrémagog",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032446",
+        "CDUID": "2446",
+        "CDNAME": "Brome-Missisquoi",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032447",
+        "CDUID": "2447",
+        "CDNAME": "La Haute-Yamaska",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032448",
+        "CDUID": "2448",
+        "CDNAME": "Acton",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032449",
+        "CDUID": "2449",
+        "CDNAME": "Drummond",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032450",
+        "CDUID": "2450",
+        "CDNAME": "Nicolet-Yamaska",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032451",
+        "CDUID": "2451",
+        "CDNAME": "Maskinongé",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032452",
+        "CDUID": "2452",
+        "CDNAME": "D'Autray",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032454",
+        "CDUID": "2454",
+        "CDNAME": "Les Maskoutains",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032455",
+        "CDUID": "2455",
+        "CDNAME": "Rouville",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032456",
+        "CDUID": "2456",
+        "CDNAME": "Le Haut-Richelieu",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032457",
+        "CDUID": "2457",
+        "CDNAME": "La Vallée-du-Richelieu",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032460",
+        "CDUID": "2460",
+        "CDNAME": "L'Assomption",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032461",
+        "CDUID": "2461",
+        "CDNAME": "Joliette",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032453",
+        "CDUID": "2453",
+        "CDNAME": "Pierre-De Saurel",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032458",
+        "CDUID": "2458",
+        "CDNAME": "Longueuil",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032459",
+        "CDUID": "2459",
+        "CDNAME": "Marguerite-D'Youville",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032462",
+        "CDUID": "2462",
+        "CDNAME": "Matawinie",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032463",
+        "CDUID": "2463",
+        "CDNAME": "Montcalm",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032425",
+        "CDUID": "2425",
+        "CDNAME": "Lévis",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032426",
+        "CDUID": "2426",
+        "CDNAME": "La Nouvelle-Beauce",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032427",
+        "CDUID": "2427",
+        "CDNAME": "Robert-Cliche",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032428",
+        "CDUID": "2428",
+        "CDNAME": "Les Etchemins",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032429",
+        "CDUID": "2429",
+        "CDNAME": "Beauce-Sartigan",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032430",
+        "CDUID": "2430",
+        "CDNAME": "Le Granit",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032431",
+        "CDUID": "2431",
+        "CDNAME": "Les Appalaches",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032432",
+        "CDUID": "2432",
+        "CDNAME": "L'Érable",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032433",
+        "CDUID": "2433",
+        "CDNAME": "Lotbinière",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032434",
+        "CDUID": "2434",
+        "CDNAME": "Portneuf",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032435",
+        "CDUID": "2435",
+        "CDNAME": "Mékinac",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032436",
+        "CDUID": "2436",
+        "CDNAME": "Shawinigan",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032437",
+        "CDUID": "2437",
+        "CDNAME": "Francheville",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00032438",
+        "CDUID": "2438",
+        "CDNAME": "Bécancour",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032439",
+        "CDUID": "2439",
+        "CDNAME": "Arthabaska",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032469",
+        "CDUID": "2469",
+        "CDNAME": "Le Haut-Saint-Laurent",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032470",
+        "CDUID": "2470",
+        "CDNAME": "Beauharnois-Salaberry",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032422",
+        "CDUID": "2422",
+        "CDNAME": "La Jacques-Cartier",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032419",
+        "CDUID": "2419",
+        "CDNAME": "Bellechasse",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00033547",
+        "CDUID": "3547",
+        "CDNAME": "Renfrew",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033548",
+        "CDUID": "3548",
+        "CDNAME": "Nipissing",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033549",
+        "CDUID": "3549",
+        "CDNAME": "Parry Sound",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033551",
+        "CDUID": "3551",
+        "CDNAME": "Manitoulin",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033552",
+        "CDUID": "3552",
+        "CDNAME": "Sudbury",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033553",
+        "CDUID": "3553",
+        "CDNAME": "Greater Sudbury \/ Grand Sudbury",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033554",
+        "CDUID": "3554",
+        "CDNAME": "Timiskaming",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033556",
+        "CDUID": "3556",
+        "CDNAME": "Cochrane",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033557",
+        "CDUID": "3557",
+        "CDNAME": "Algoma",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033558",
+        "CDUID": "3558",
+        "CDNAME": "Thunder Bay",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033559",
+        "CDUID": "3559",
+        "CDNAME": "Rainy River",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00033560",
+        "CDUID": "3560",
+        "CDNAME": "Kenora",
+        "CDTYPE": "DIS"
+    },
+    {
+        "DGUID": "2021A00034601",
+        "CDUID": "4601",
+        "CDNAME": "Division No.  1",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034602",
+        "CDUID": "4602",
+        "CDNAME": "Division No.  2",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034603",
+        "CDUID": "4603",
+        "CDNAME": "Division No.  3",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034604",
+        "CDUID": "4604",
+        "CDNAME": "Division No.  4",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034605",
+        "CDUID": "4605",
+        "CDNAME": "Division No.  5",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034606",
+        "CDUID": "4606",
+        "CDNAME": "Division No.  6",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034607",
+        "CDUID": "4607",
+        "CDNAME": "Division No.  7",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034608",
+        "CDUID": "4608",
+        "CDNAME": "Division No.  8",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034609",
+        "CDUID": "4609",
+        "CDNAME": "Division No.  9",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034610",
+        "CDUID": "4610",
+        "CDNAME": "Division No. 10",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034611",
+        "CDUID": "4611",
+        "CDNAME": "Division No. 11",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00032465",
+        "CDUID": "2465",
+        "CDNAME": "Laval",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032466",
+        "CDUID": "2466",
+        "CDNAME": "Montréal",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032467",
+        "CDUID": "2467",
+        "CDNAME": "Roussillon",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032468",
+        "CDUID": "2468",
+        "CDNAME": "Les Jardins-de-Napierville",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032471",
+        "CDUID": "2471",
+        "CDNAME": "Vaudreuil-Soulanges",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032472",
+        "CDUID": "2472",
+        "CDNAME": "Deux-Montagnes",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032473",
+        "CDUID": "2473",
+        "CDNAME": "Thérèse-De Blainville",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032474",
+        "CDUID": "2474",
+        "CDNAME": "Mirabel",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032475",
+        "CDUID": "2475",
+        "CDNAME": "La Rivière-du-Nord",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032476",
+        "CDUID": "2476",
+        "CDNAME": "Argenteuil",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032477",
+        "CDUID": "2477",
+        "CDNAME": "Les Pays-d'en-Haut",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032478",
+        "CDUID": "2478",
+        "CDNAME": "Les Laurentides",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032479",
+        "CDUID": "2479",
+        "CDNAME": "Antoine-Labelle",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032480",
+        "CDUID": "2480",
+        "CDNAME": "Papineau",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032481",
+        "CDUID": "2481",
+        "CDNAME": "Gatineau",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032482",
+        "CDUID": "2482",
+        "CDNAME": "Les Collines-de-l'Outaouais",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032483",
+        "CDUID": "2483",
+        "CDNAME": "La Vallée-de-la-Gatineau",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032484",
+        "CDUID": "2484",
+        "CDNAME": "Pontiac",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032485",
+        "CDUID": "2485",
+        "CDNAME": "Témiscamingue",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032486",
+        "CDUID": "2486",
+        "CDNAME": "Rouyn-Noranda",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032487",
+        "CDUID": "2487",
+        "CDNAME": "Abitibi-Ouest",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032488",
+        "CDUID": "2488",
+        "CDNAME": "Abitibi",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032489",
+        "CDUID": "2489",
+        "CDNAME": "La Vallée-de-l'Or",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032490",
+        "CDUID": "2490",
+        "CDNAME": "La Tuque",
+        "CDTYPE": "TÉ"
+    },
+    {
+        "DGUID": "2021A00032491",
+        "CDUID": "2491",
+        "CDNAME": "Le Domaine-du-Roy",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032492",
+        "CDUID": "2492",
+        "CDNAME": "Maria-Chapdelaine",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032493",
+        "CDUID": "2493",
+        "CDNAME": "Lac-Saint-Jean-Est",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032494",
+        "CDUID": "2494",
+        "CDNAME": "Le Saguenay-et-son-Fjord",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00032495",
+        "CDUID": "2495",
+        "CDNAME": "La Haute-Côte-Nord",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032496",
+        "CDUID": "2496",
+        "CDNAME": "Manicouagan",
+        "CDTYPE": "MRC"
+    },
+    {
+        "DGUID": "2021A00032497",
+        "CDUID": "2497",
+        "CDNAME": "Sept-Rivières--Caniapiscau",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00032498",
+        "CDUID": "2498",
+        "CDNAME": "Minganie--Le Golfe-du-Saint-Laurent",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00032499",
+        "CDUID": "2499",
+        "CDNAME": "Nord-du-Québec",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033501",
+        "CDUID": "3501",
+        "CDNAME": "Stormont, Dundas and Glengarry",
+        "CDTYPE": "UC"
+    },
+    {
+        "DGUID": "2021A00033502",
+        "CDUID": "3502",
+        "CDNAME": "Prescott and Russell",
+        "CDTYPE": "UC"
+    },
+    {
+        "DGUID": "2021A00033506",
+        "CDUID": "3506",
+        "CDNAME": "Ottawa",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033507",
+        "CDUID": "3507",
+        "CDNAME": "Leeds and Grenville",
+        "CDTYPE": "UC"
+    },
+    {
+        "DGUID": "2021A00033509",
+        "CDUID": "3509",
+        "CDNAME": "Lanark",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033510",
+        "CDUID": "3510",
+        "CDNAME": "Frontenac",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033511",
+        "CDUID": "3511",
+        "CDNAME": "Lennox and Addington",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033512",
+        "CDUID": "3512",
+        "CDNAME": "Hastings",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033513",
+        "CDUID": "3513",
+        "CDNAME": "Prince Edward",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033514",
+        "CDUID": "3514",
+        "CDNAME": "Northumberland",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033515",
+        "CDUID": "3515",
+        "CDNAME": "Peterborough",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033516",
+        "CDUID": "3516",
+        "CDNAME": "Kawartha Lakes",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033518",
+        "CDUID": "3518",
+        "CDNAME": "Durham",
+        "CDTYPE": "RM"
+    },
+    {
+        "DGUID": "2021A00033519",
+        "CDUID": "3519",
+        "CDNAME": "York",
+        "CDTYPE": "RM"
+    },
+    {
+        "DGUID": "2021A00033520",
+        "CDUID": "3520",
+        "CDNAME": "Toronto",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033521",
+        "CDUID": "3521",
+        "CDNAME": "Peel",
+        "CDTYPE": "RM"
+    },
+    {
+        "DGUID": "2021A00033522",
+        "CDUID": "3522",
+        "CDNAME": "Dufferin",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033523",
+        "CDUID": "3523",
+        "CDNAME": "Wellington",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033524",
+        "CDUID": "3524",
+        "CDNAME": "Halton",
+        "CDTYPE": "RM"
+    },
+    {
+        "DGUID": "2021A00033525",
+        "CDUID": "3525",
+        "CDNAME": "Hamilton",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033526",
+        "CDUID": "3526",
+        "CDNAME": "Niagara",
+        "CDTYPE": "RM"
+    },
+    {
+        "DGUID": "2021A00033528",
+        "CDUID": "3528",
+        "CDNAME": "Haldimand-Norfolk",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033529",
+        "CDUID": "3529",
+        "CDNAME": "Brant",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033530",
+        "CDUID": "3530",
+        "CDNAME": "Waterloo",
+        "CDTYPE": "RM"
+    },
+    {
+        "DGUID": "2021A00033531",
+        "CDUID": "3531",
+        "CDNAME": "Perth",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033532",
+        "CDUID": "3532",
+        "CDNAME": "Oxford",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033534",
+        "CDUID": "3534",
+        "CDNAME": "Elgin",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033536",
+        "CDUID": "3536",
+        "CDNAME": "Chatham-Kent",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00033537",
+        "CDUID": "3537",
+        "CDNAME": "Essex",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033538",
+        "CDUID": "3538",
+        "CDNAME": "Lambton",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033539",
+        "CDUID": "3539",
+        "CDNAME": "Middlesex",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033540",
+        "CDUID": "3540",
+        "CDNAME": "Huron",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033541",
+        "CDUID": "3541",
+        "CDNAME": "Bruce",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033542",
+        "CDUID": "3542",
+        "CDNAME": "Grey",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033543",
+        "CDUID": "3543",
+        "CDNAME": "Simcoe",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00033544",
+        "CDUID": "3544",
+        "CDNAME": "Muskoka",
+        "CDTYPE": "DM"
+    },
+    {
+        "DGUID": "2021A00033546",
+        "CDUID": "3546",
+        "CDNAME": "Haliburton",
+        "CDTYPE": "CTY"
+    },
+    {
+        "DGUID": "2021A00034715",
+        "CDUID": "4715",
+        "CDNAME": "Division No. 15",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034716",
+        "CDUID": "4716",
+        "CDNAME": "Division No. 16",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034717",
+        "CDUID": "4717",
+        "CDNAME": "Division No. 17",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034718",
+        "CDUID": "4718",
+        "CDNAME": "Division No. 18",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034801",
+        "CDUID": "4801",
+        "CDNAME": "Division No.  1",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034802",
+        "CDUID": "4802",
+        "CDNAME": "Division No.  2",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034803",
+        "CDUID": "4803",
+        "CDNAME": "Division No.  3",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034804",
+        "CDUID": "4804",
+        "CDNAME": "Division No.  4",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034805",
+        "CDUID": "4805",
+        "CDNAME": "Division No.  5",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034806",
+        "CDUID": "4806",
+        "CDNAME": "Division No.  6",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034807",
+        "CDUID": "4807",
+        "CDNAME": "Division No.  7",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034808",
+        "CDUID": "4808",
+        "CDNAME": "Division No.  8",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034809",
+        "CDUID": "4809",
+        "CDNAME": "Division No.  9",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034810",
+        "CDUID": "4810",
+        "CDNAME": "Division No. 10",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034811",
+        "CDUID": "4811",
+        "CDNAME": "Division No. 11",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034812",
+        "CDUID": "4812",
+        "CDNAME": "Division No. 12",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034813",
+        "CDUID": "4813",
+        "CDNAME": "Division No. 13",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034814",
+        "CDUID": "4814",
+        "CDNAME": "Division No. 14",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034815",
+        "CDUID": "4815",
+        "CDNAME": "Division No. 15",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034816",
+        "CDUID": "4816",
+        "CDNAME": "Division No. 16",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034817",
+        "CDUID": "4817",
+        "CDNAME": "Division No. 17",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034818",
+        "CDUID": "4818",
+        "CDNAME": "Division No. 18",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034819",
+        "CDUID": "4819",
+        "CDNAME": "Division No. 19",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00035901",
+        "CDUID": "5901",
+        "CDNAME": "East Kootenay",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035903",
+        "CDUID": "5903",
+        "CDNAME": "Central Kootenay",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035905",
+        "CDUID": "5905",
+        "CDNAME": "Kootenay Boundary",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035907",
+        "CDUID": "5907",
+        "CDNAME": "Okanagan-Similkameen",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035909",
+        "CDUID": "5909",
+        "CDNAME": "Fraser Valley",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035915",
+        "CDUID": "5915",
+        "CDNAME": "Greater Vancouver",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035917",
+        "CDUID": "5917",
+        "CDNAME": "Capital",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035919",
+        "CDUID": "5919",
+        "CDNAME": "Cowichan Valley",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035921",
+        "CDUID": "5921",
+        "CDNAME": "Nanaimo",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035923",
+        "CDUID": "5923",
+        "CDNAME": "Alberni-Clayoquot",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035924",
+        "CDUID": "5924",
+        "CDNAME": "Strathcona",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035926",
+        "CDUID": "5926",
+        "CDNAME": "Comox Valley",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035929",
+        "CDUID": "5929",
+        "CDNAME": "Sunshine Coast",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035931",
+        "CDUID": "5931",
+        "CDNAME": "Squamish-Lillooet",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035933",
+        "CDUID": "5933",
+        "CDNAME": "Thompson-Nicola",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035935",
+        "CDUID": "5935",
+        "CDNAME": "Central Okanagan",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035937",
+        "CDUID": "5937",
+        "CDNAME": "North Okanagan",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035939",
+        "CDUID": "5939",
+        "CDNAME": "Columbia-Shuswap",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00034613",
+        "CDUID": "4613",
+        "CDNAME": "Division No. 13",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00035927",
+        "CDUID": "5927",
+        "CDNAME": "Powell River",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00034612",
+        "CDUID": "4612",
+        "CDNAME": "Division No. 12",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034614",
+        "CDUID": "4614",
+        "CDNAME": "Division No. 14",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034615",
+        "CDUID": "4615",
+        "CDNAME": "Division No. 15",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034616",
+        "CDUID": "4616",
+        "CDNAME": "Division No. 16",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00035941",
+        "CDUID": "5941",
+        "CDNAME": "Cariboo",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035943",
+        "CDUID": "5943",
+        "CDNAME": "Mount Waddington",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035945",
+        "CDUID": "5945",
+        "CDNAME": "Central Coast",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035947",
+        "CDUID": "5947",
+        "CDNAME": "Skeena-Queen Charlotte",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035949",
+        "CDUID": "5949",
+        "CDNAME": "Kitimat-Stikine",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035951",
+        "CDUID": "5951",
+        "CDNAME": "Bulkley-Nechako",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035953",
+        "CDUID": "5953",
+        "CDNAME": "Fraser-Fort George",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035955",
+        "CDUID": "5955",
+        "CDNAME": "Peace River",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00035957",
+        "CDUID": "5957",
+        "CDNAME": "Stikine",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00035959",
+        "CDUID": "5959",
+        "CDNAME": "Northern Rockies",
+        "CDTYPE": "RD"
+    },
+    {
+        "DGUID": "2021A00036001",
+        "CDUID": "6001",
+        "CDNAME": "Yukon",
+        "CDTYPE": "TER"
+    },
+    {
+        "DGUID": "2021A00036101",
+        "CDUID": "6101",
+        "CDNAME": "Region 1",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00036102",
+        "CDUID": "6102",
+        "CDNAME": "Region 2",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00036103",
+        "CDUID": "6103",
+        "CDNAME": "Region 3",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00036104",
+        "CDUID": "6104",
+        "CDNAME": "Region 4",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00036105",
+        "CDUID": "6105",
+        "CDNAME": "Region 5",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00036106",
+        "CDUID": "6106",
+        "CDNAME": "Region 6",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00036204",
+        "CDUID": "6204",
+        "CDNAME": "Qikiqtaaluk",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00036205",
+        "CDUID": "6205",
+        "CDNAME": "Kivalliq",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00036208",
+        "CDUID": "6208",
+        "CDNAME": "Kitikmeot",
+        "CDTYPE": "REG"
+    },
+    {
+        "DGUID": "2021A00034617",
+        "CDUID": "4617",
+        "CDNAME": "Division No. 17",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034618",
+        "CDUID": "4618",
+        "CDNAME": "Division No. 18",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034619",
+        "CDUID": "4619",
+        "CDNAME": "Division No. 19",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034620",
+        "CDUID": "4620",
+        "CDNAME": "Division No. 20",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034621",
+        "CDUID": "4621",
+        "CDNAME": "Division No. 21",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034622",
+        "CDUID": "4622",
+        "CDNAME": "Division No. 22",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034623",
+        "CDUID": "4623",
+        "CDNAME": "Division No. 23",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034701",
+        "CDUID": "4701",
+        "CDNAME": "Division No.  1",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034702",
+        "CDUID": "4702",
+        "CDNAME": "Division No.  2",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034703",
+        "CDUID": "4703",
+        "CDNAME": "Division No.  3",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034704",
+        "CDUID": "4704",
+        "CDNAME": "Division No.  4",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034705",
+        "CDUID": "4705",
+        "CDNAME": "Division No.  5",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034706",
+        "CDUID": "4706",
+        "CDNAME": "Division No.  6",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034707",
+        "CDUID": "4707",
+        "CDNAME": "Division No.  7",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034708",
+        "CDUID": "4708",
+        "CDNAME": "Division No.  8",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034709",
+        "CDUID": "4709",
+        "CDNAME": "Division No.  9",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034710",
+        "CDUID": "4710",
+        "CDNAME": "Division No. 10",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034711",
+        "CDUID": "4711",
+        "CDNAME": "Division No. 11",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034712",
+        "CDUID": "4712",
+        "CDNAME": "Division No. 12",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034713",
+        "CDUID": "4713",
+        "CDNAME": "Division No. 13",
+        "CDTYPE": "CDR"
+    },
+    {
+        "DGUID": "2021A00034714",
+        "CDUID": "4714",
+        "CDNAME": "Division No. 14",
+        "CDTYPE": "CDR"
+    }
+]

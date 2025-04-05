@@ -1,0 +1,914 @@
+[
+    {
+        "DGUID": "2021S0503001",
+        "CMAUID": "001",
+        "CMANAME": "St. John's",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504010",
+        "CMAUID": "010",
+        "CMANAME": "Grand Falls-Windsor",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504011",
+        "CMAUID": "011",
+        "CMANAME": "Gander",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504015",
+        "CMAUID": "015",
+        "CMANAME": "Corner Brook",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504105",
+        "CMAUID": "105",
+        "CMANAME": "Charlottetown",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504110",
+        "CMAUID": "110",
+        "CMANAME": "Summerside",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503205",
+        "CMAUID": "205",
+        "CMANAME": "Halifax",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504210",
+        "CMAUID": "210",
+        "CMANAME": "Kentville",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504215",
+        "CMAUID": "215",
+        "CMANAME": "Truro",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504220",
+        "CMAUID": "220",
+        "CMANAME": "New Glasgow",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504225",
+        "CMAUID": "225",
+        "CMANAME": "Cape Breton",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504605",
+        "CMAUID": "605",
+        "CMANAME": "Steinbach",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504456",
+        "CMAUID": "456",
+        "CMANAME": "Joliette",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503462",
+        "CMAUID": "462",
+        "CMANAME": "Montréal",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504465",
+        "CMAUID": "465",
+        "CMANAME": "Salaberry-de-Valleyfield",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504467",
+        "CMAUID": "467",
+        "CMANAME": "Sainte-Agathe-des-Monts",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504485",
+        "CMAUID": "485",
+        "CMANAME": "Rouyn-Noranda",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504502",
+        "CMAUID": "502",
+        "CMANAME": "Hawkesbury",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503505",
+        "CMAUID": "505",
+        "CMANAME": "Ottawa - Gatineau",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504501",
+        "CMAUID": "501",
+        "CMANAME": "Cornwall",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503305",
+        "CMAUID": "305",
+        "CMANAME": "Moncton",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503310",
+        "CMAUID": "310",
+        "CMANAME": "Saint John",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503320",
+        "CMAUID": "320",
+        "CMANAME": "Fredericton",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504328",
+        "CMAUID": "328",
+        "CMANAME": "Bathurst",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504404",
+        "CMAUID": "404",
+        "CMANAME": "Rimouski",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504405",
+        "CMAUID": "405",
+        "CMANAME": "Rivière-du-Loup",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504406",
+        "CMAUID": "406",
+        "CMANAME": "Baie-Comeau",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503408",
+        "CMAUID": "408",
+        "CMANAME": "Saguenay",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504410",
+        "CMAUID": "410",
+        "CMANAME": "Alma",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504329",
+        "CMAUID": "329",
+        "CMANAME": "Miramichi",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504330",
+        "CMAUID": "330",
+        "CMANAME": "Campbellton",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504335",
+        "CMAUID": "335",
+        "CMANAME": "Edmundston",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504403",
+        "CMAUID": "403",
+        "CMANAME": "Matane",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504468",
+        "CMAUID": "468",
+        "CMANAME": "Lachute",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504480",
+        "CMAUID": "480",
+        "CMANAME": "Val-d'Or",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504481",
+        "CMAUID": "481",
+        "CMANAME": "Amos",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504411",
+        "CMAUID": "411",
+        "CMANAME": "Dolbeau-Mistassini",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504412",
+        "CMAUID": "412",
+        "CMANAME": "Sept-Îles",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503421",
+        "CMAUID": "421",
+        "CMANAME": "Québec",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504423",
+        "CMAUID": "423",
+        "CMANAME": "Sainte-Marie",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504428",
+        "CMAUID": "428",
+        "CMANAME": "Saint-Georges",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504430",
+        "CMAUID": "430",
+        "CMANAME": "Thetford Mines",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503433",
+        "CMAUID": "433",
+        "CMANAME": "Sherbrooke",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504437",
+        "CMAUID": "437",
+        "CMANAME": "Cowansville",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504440",
+        "CMAUID": "440",
+        "CMANAME": "Victoriaville",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503442",
+        "CMAUID": "442",
+        "CMANAME": "Trois-Rivières",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504444",
+        "CMAUID": "444",
+        "CMANAME": "Shawinigan",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503447",
+        "CMAUID": "447",
+        "CMANAME": "Drummondville",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504450",
+        "CMAUID": "450",
+        "CMANAME": "Granby",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0504452",
+        "CMAUID": "452",
+        "CMANAME": "Saint-Hyacinthe",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0504454",
+        "CMAUID": "454",
+        "CMANAME": "Sorel-Tracy",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504586",
+        "CMAUID": "586",
+        "CMANAME": "Timmins",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504590",
+        "CMAUID": "590",
+        "CMANAME": "Sault Ste. Marie",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0503595",
+        "CMAUID": "595",
+        "CMANAME": "Thunder Bay",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504598",
+        "CMAUID": "598",
+        "CMANAME": "Kenora",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503602",
+        "CMAUID": "602",
+        "CMANAME": "Winnipeg",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504603",
+        "CMAUID": "603",
+        "CMANAME": "Winkler",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504607",
+        "CMAUID": "607",
+        "CMANAME": "Portage la Prairie",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504610",
+        "CMAUID": "610",
+        "CMANAME": "Brandon",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504640",
+        "CMAUID": "640",
+        "CMANAME": "Thompson",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503705",
+        "CMAUID": "705",
+        "CMANAME": "Regina",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504710",
+        "CMAUID": "710",
+        "CMANAME": "Yorkton",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504715",
+        "CMAUID": "715",
+        "CMANAME": "Moose Jaw",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504512",
+        "CMAUID": "512",
+        "CMANAME": "Brockville",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504515",
+        "CMAUID": "515",
+        "CMANAME": "Pembroke",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504516",
+        "CMAUID": "516",
+        "CMANAME": "Petawawa",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503521",
+        "CMAUID": "521",
+        "CMANAME": "Kingston",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503522",
+        "CMAUID": "522",
+        "CMANAME": "Belleville - Quinte West",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504527",
+        "CMAUID": "527",
+        "CMANAME": "Cobourg",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504528",
+        "CMAUID": "528",
+        "CMANAME": "Port Hope",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503529",
+        "CMAUID": "529",
+        "CMANAME": "Peterborough",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504530",
+        "CMAUID": "530",
+        "CMANAME": "Kawartha Lakes",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504531",
+        "CMAUID": "531",
+        "CMANAME": "Centre Wellington",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503532",
+        "CMAUID": "532",
+        "CMANAME": "Oshawa",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504533",
+        "CMAUID": "533",
+        "CMANAME": "Ingersoll",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503535",
+        "CMAUID": "535",
+        "CMANAME": "Toronto",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503537",
+        "CMAUID": "537",
+        "CMANAME": "Hamilton",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503539",
+        "CMAUID": "539",
+        "CMANAME": "St. Catharines - Niagara",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503541",
+        "CMAUID": "541",
+        "CMANAME": "Kitchener - Cambridge - Waterloo",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503543",
+        "CMAUID": "543",
+        "CMANAME": "Brantford",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504544",
+        "CMAUID": "544",
+        "CMANAME": "Woodstock",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504546",
+        "CMAUID": "546",
+        "CMANAME": "Tillsonburg",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504547",
+        "CMAUID": "547",
+        "CMANAME": "Norfolk",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503725",
+        "CMAUID": "725",
+        "CMANAME": "Saskatoon",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504735",
+        "CMAUID": "735",
+        "CMANAME": "North Battleford",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504745",
+        "CMAUID": "745",
+        "CMANAME": "Prince Albert",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504750",
+        "CMAUID": "750",
+        "CMANAME": "Estevan",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504755",
+        "CMAUID": "755",
+        "CMANAME": "Weyburn",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504840",
+        "CMAUID": "840",
+        "CMANAME": "Lloydminster",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504805",
+        "CMAUID": "805",
+        "CMANAME": "Medicine Hat",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0504806",
+        "CMAUID": "806",
+        "CMANAME": "Brooks",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503810",
+        "CMAUID": "810",
+        "CMANAME": "Lethbridge",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504820",
+        "CMAUID": "820",
+        "CMANAME": "Okotoks",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504821",
+        "CMAUID": "821",
+        "CMANAME": "High River",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503825",
+        "CMAUID": "825",
+        "CMANAME": "Calgary",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503550",
+        "CMAUID": "550",
+        "CMANAME": "Guelph",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504553",
+        "CMAUID": "553",
+        "CMANAME": "Stratford",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504566",
+        "CMAUID": "566",
+        "CMANAME": "Owen Sound",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504567",
+        "CMAUID": "567",
+        "CMANAME": "Collingwood",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503568",
+        "CMAUID": "568",
+        "CMANAME": "Barrie",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504569",
+        "CMAUID": "569",
+        "CMANAME": "Orillia",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504939",
+        "CMAUID": "939",
+        "CMANAME": "Parksville",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503555",
+        "CMAUID": "555",
+        "CMANAME": "London",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504556",
+        "CMAUID": "556",
+        "CMANAME": "Chatham-Kent",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503559",
+        "CMAUID": "559",
+        "CMANAME": "Windsor",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504562",
+        "CMAUID": "562",
+        "CMANAME": "Sarnia",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0504563",
+        "CMAUID": "563",
+        "CMANAME": "Essa",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504565",
+        "CMAUID": "565",
+        "CMANAME": "Wasaga Beach",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504571",
+        "CMAUID": "571",
+        "CMANAME": "Midland",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504575",
+        "CMAUID": "575",
+        "CMANAME": "North Bay",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0503580",
+        "CMAUID": "580",
+        "CMANAME": "Greater Sudbury / Grand Sudbury",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504582",
+        "CMAUID": "582",
+        "CMANAME": "Elliot Lake",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504918",
+        "CMAUID": "918",
+        "CMANAME": "Vernon",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504920",
+        "CMAUID": "920",
+        "CMANAME": "Salmon Arm",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503925",
+        "CMAUID": "925",
+        "CMANAME": "Kamloops",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503930",
+        "CMAUID": "930",
+        "CMANAME": "Chilliwack",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503935",
+        "CMAUID": "935",
+        "CMANAME": "Victoria",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504936",
+        "CMAUID": "936",
+        "CMANAME": "Ladysmith",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504937",
+        "CMAUID": "937",
+        "CMANAME": "Duncan",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503938",
+        "CMAUID": "938",
+        "CMANAME": "Nanaimo",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504720",
+        "CMAUID": "720",
+        "CMANAME": "Swift Current",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504907",
+        "CMAUID": "907",
+        "CMANAME": "Nelson",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504910",
+        "CMAUID": "910",
+        "CMANAME": "Trail",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504913",
+        "CMAUID": "913",
+        "CMANAME": "Penticton",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503915",
+        "CMAUID": "915",
+        "CMANAME": "Kelowna",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504940",
+        "CMAUID": "940",
+        "CMANAME": "Port Alberni",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504943",
+        "CMAUID": "943",
+        "CMANAME": "Courtenay",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504944",
+        "CMAUID": "944",
+        "CMANAME": "Campbell River",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504945",
+        "CMAUID": "945",
+        "CMANAME": "Powell River",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504950",
+        "CMAUID": "950",
+        "CMANAME": "Williams Lake",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504952",
+        "CMAUID": "952",
+        "CMANAME": "Quesnel",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504955",
+        "CMAUID": "955",
+        "CMANAME": "Prince Rupert",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504965",
+        "CMAUID": "965",
+        "CMANAME": "Terrace",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504970",
+        "CMAUID": "970",
+        "CMANAME": "Prince George",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0504975",
+        "CMAUID": "975",
+        "CMANAME": "Dawson Creek",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504977",
+        "CMAUID": "977",
+        "CMANAME": "Fort St. John",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504995",
+        "CMAUID": "995",
+        "CMANAME": "Yellowknife",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504990",
+        "CMAUID": "990",
+        "CMANAME": "Whitehorse",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503932",
+        "CMAUID": "932",
+        "CMANAME": "Abbotsford - Mission",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0503933",
+        "CMAUID": "933",
+        "CMANAME": "Vancouver",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504934",
+        "CMAUID": "934",
+        "CMANAME": "Squamish",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504826",
+        "CMAUID": "826",
+        "CMANAME": "Strathmore",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504828",
+        "CMAUID": "828",
+        "CMANAME": "Canmore",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503830",
+        "CMAUID": "830",
+        "CMANAME": "Red Deer",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504831",
+        "CMAUID": "831",
+        "CMANAME": "Sylvan Lake",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504832",
+        "CMAUID": "832",
+        "CMANAME": "Lacombe",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504833",
+        "CMAUID": "833",
+        "CMANAME": "Camrose",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0503835",
+        "CMAUID": "835",
+        "CMANAME": "Edmonton",
+        "CMATYPE": "B"
+    },
+    {
+        "DGUID": "2021S0504850",
+        "CMAUID": "850",
+        "CMANAME": "Grande Prairie",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0504860",
+        "CMAUID": "860",
+        "CMANAME": "Wood Buffalo",
+        "CMATYPE": "K"
+    },
+    {
+        "DGUID": "2021S0504865",
+        "CMAUID": "865",
+        "CMANAME": "Wetaskiwin",
+        "CMATYPE": "D"
+    },
+    {
+        "DGUID": "2021S0504905",
+        "CMAUID": "905",
+        "CMANAME": "Cranbrook",
+        "CMATYPE": "D"
+    }
+]
