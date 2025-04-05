@@ -1,0 +1,67 @@
+###############################################################################
+#
+# File: .pre-commit-config.yaml
+#
+# Purpose: Set up git hooks to showcase capabilities
+#
+# Author: Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
+#
+# Created: 2023-12-01
+#
+###############################################################################
+
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+  #- repo: local
+  #  hooks:
+      ### ↓↓↓ Uncomment here to enable cleanup of Jupyter notebooks ↓↓↓ ###
+      # - id: jupyter-nb-clear-output
+      #   name: jupyter-nb-clear-output
+      #   files: \.ipynb$
+      #   stages: [commit]
+      #   language: system
+      #   entry: jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace
+      ### ↑↑↑ End of jupyter hook block ↑↑↑ ###
+      ### ↓↓↓ Uncomment here to enable conda dumping of installed python packages ↓↓↓ ###
+      #- id: conda-list-export
+      #  name: conda-list-export
+      #  always_run: true
+      #  exclude: .*
+      #  stages: [pre-commit]
+      #  language: system
+      #  entry:  "conda list --export > requirements.txt"
+      ### ↑↑↑ End of conda hook block ↑↑↑ ###
+      ### ↓↓↓ Uncomment here to enable pip dumping of installed python packages ↓↓↓ ###
+      # - id: pip-freeze
+      #   name: pip-freeze
+      #   always_run: true
+      #   exclude: .*
+      #   stages: [commit]
+      #   language: system
+      #   entry:  pip freeze > "requirements_$(python -c 'import platform; print(platform.uname().system)').txt"
+      ### ↑↑↑ End of pip hook block ↑↑↑ ###
+  ### ↓↓↓ Uncomment here to enable black code formatting for python ↓↓↓ ###
+  - repo: https://github.com/psf/black-pre-commit-mirror
+    rev: 25.1.0
+    hooks:
+      - id: black
+  ### ↑↑↑ End of black hook block ↑↑↑ ###
+  ### ↓↓↓ Uncomment here to enable pylint static testing for python ↓↓↓ ###
+  # - repo: https://github.com/pylint-dev/pylint
+  #   rev: v3.0.2
+  #   hooks:
+  #     - id: pylint
+  ### ↑↑↑ End of conda hook block ↑↑↑ ###
+  ### ↓↓↓ Uncomment here to enable styling of R code with styler ↓↓↓ ###
+  # - repo: https://github.com/lorenzwalthert/precommit
+  #   rev: v0.3.2.9027
+  #   hooks:
+  #     - id: style-files
+  ### ↑↑↑ End of R styler block ↑↑↑ ###
+  ### ↓↓↓ Uncomment here to enable lintr static testing for R ↓↓↓ ###
+  # - repo: https://github.com/lorenzwalthert/precommit
+  #   rev: v0.3.2.9027
+  #   hooks:
+  #     - id: lintr
+  ### ↑↑↑ End of R linter block ↑↑↑ ###
