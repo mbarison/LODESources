@@ -1,0 +1,817 @@
+[
+    {
+        "uid": "3df5723848e06ac05869cf172722c5e0c5ac7d6afc20ce4cb979703b6d640a96",
+        "provider_name_en": "City of Delta",
+        "provider_url": "https://www.delta.ca/city-hall/municipal-information/open-data-catalogue"
+    },
+    {
+        "uid": "53d0df8dc2385bffc858d9029d50945632606d1cbd6ad0f2d55af8dd48dddd8b",
+        "provider_name_en": "City of Coquitlam",
+        "provider_url": "https://data.coquitlam.ca"
+    },
+    {
+        "uid": "d1b18345f05926e4a7328a631fbac15f1b5f987f3c12df4679b7101b7c50ee2d",
+        "provider_name_en": "City of Cornwall",
+        "provider_url": "https://data-cornwallcity.opendata.arcgis.com"
+    },
+    {
+        "uid": "12f1bbb54fe43590ec281dc551a82e519443152ecaebb119db7e34698d323343",
+        "provider_name_en": "City of Waterloo",
+        "provider_url": "https://data.waterloo.ca"
+    },
+    {
+        "uid": "ade3b5fea03091bf058d393e89208f47bc6ab3f11b1b939c3c04e5ac2784a0ae",
+        "provider_name_en": "Environment and Climate Change Canada",
+        "provider_url": "https://data-donnees.ec.gc.ca/data"
+    },
+    {
+        "uid": "9a6ffa3ed6799901e18eb144b84e0465616c376aa682071e9bc0d8bbc7eb25b8",
+        "provider_name_en": "City of Kawartha Lakes",
+        "provider_url": "https://open-data-kawartha.hub.arcgis.com"
+    },
+    {
+        "uid": "40e286fc597f885403a470f3ffe6f39c2c517f96e4015e1bc6036b85061332ad",
+        "provider_name_en": "City of Thunder Bay",
+        "provider_url": "https://opendata.thunderbay.ca"
+    },
+    {
+        "uid": "5b2ec034a2fd777756021769e585e83010d24e603a1cfbd162bdeaa513456886",
+        "provider_name_en": "Town of Whitby",
+        "provider_url": "https://geohub-whitby.hub.arcgis.com"
+    },
+    {
+        "uid": "a4a93837a966f2ee02c324183e0dd2313af5b79e9988b6543c5cb4fce1c40619",
+        "provider_name_en": "City of Vernon",
+        "provider_url": "https://www.vernon.ca/government-services/maps-gis/open-data-catalogue"
+    },
+    {
+        "uid": "0b8df0ac2f2e93fc0163b0d650fb7d2df8b73a2122a8c99faf70efe7d3317705",
+        "provider_name_en": "City of Windsor",
+        "provider_url": "https://opendata.citywindsor.ca"
+    },
+    {
+        "uid": "a254dd81a1172a285b7ffaba4e91f71e4fa5e6904768bc552bbd519a7aecf6fe",
+        "provider_name_en": "City of Whitehorse",
+        "provider_url": "https://data.whitehorse.ca"
+    },
+    {
+        "uid": "71975f237e9797aabb1ed5f9973add609d90377b52172b5b3c70fbf5b9d97554",
+        "provider_name_en": "Natural Resources Canada",
+        "provider_url": "https://open.canada.ca/data/en/organization/nrcan-rncan"
+    },
+    {
+        "uid": "3ff78c15630ffa467cf05f3ad314b2876c65b880abda0abec31862b5b55dcbe5",
+        "provider_name_en": "National Capital Commission",
+        "provider_url": "https://ncc-hub-ncc-ccn.hub.arcgis.com"
+    },
+    {
+        "uid": "2a3f33ab5543bfef1648f4bd8c74194ca86ac3285e3efc857dc88ef1d26a8a90",
+        "provider_name_en": "Ville de Saguenay",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-saguenay"
+    },
+    {
+        "uid": "8e4f33c270e21ecf51b6133f532f84cfcd2edec2a45136ece57011e18e8fb308",
+        "provider_name_en": "City of Oshawa",
+        "provider_url": "https://city-oshawa.opendata.arcgis.com/"
+    },
+    {
+        "uid": "21597a9fcf2f1c439fe562ad0ed96a138789ba3a98bbc764946051a9b8533620",
+        "provider_name_en": "Agriculture and Agri-Food Canada (AAFC)",
+        "provider_url": "https://agriculture.canada.ca/en/science/scientific-collaboration/open-data"
+    },
+    {
+        "uid": "d1837bf848b4969a4dfcb5b479877531e746b172214bb6dbe2c45e4fc4b91cb8",
+        "provider_name_en": "Transport Canada",
+        "provider_url": "https://tc.canada.ca"
+    },
+    {
+        "uid": "285b55c1cbb100a793e8fca960a6e0d44479cc39c60d51893d313d85ac5e3a49",
+        "provider_name_en": "Province of British Columbia",
+        "provider_url": "https://catalogue.data.gov.bc.ca"
+    },
+    {
+        "uid": "b19711ce4578f1c2c563c591c4b0c18b97c82a9a4f7272f32131b22e5d554fdc",
+        "provider_name_en": "Parks Canada",
+        "provider_url": "https://data-apca.opendata.arcgis.com/"
+    },
+    {
+        "uid": "06dcafbf73e45dc6bf26552303182394022cd2895ef87c9cfd5fb28506ef41dd",
+        "provider_name_en": "Electric Circuit",
+        "provider_url": "https://lecircuitelectrique.com"
+    },
+    {
+        "uid": "e9b40d8d3eed046147c8ffe3778fdf25a0ba4cba6aa997239ac4ecb9dbf07540",
+        "provider_name_en": "Town of Ajax",
+        "provider_url": "https://opendata.ajax.ca"
+    },
+    {
+        "uid": "5f0117cdde69cedc092e96df9a568a51d73808459f51e02b85d95c2ec748ce7d",
+        "provider_name_en": "Regional District of Central Okanagan",
+        "provider_url": "https://gis-rdco.hub.arcgis.com"
+    },
+    {
+        "uid": "6794febfcaf35700e39d4338db83055ef0c67ac27a7613d5d669ecc1814f6ff9",
+        "provider_name_en": "Municipality of North Cowichan",
+        "provider_url": "https://catalogue.data.gov.bc.ca/organization/north-cowichan"
+    },
+    {
+        "uid": "197ca850375f5dbf90dc89928bf75daf89481681e030c2d5330bc02385ff2277",
+        "provider_name_en": "Town of Orangeville",
+        "provider_url": "https://data.orangeville.ca"
+    },
+    {
+        "uid": "3efed2a626975eb6b7b4236cabb5a671346b4aaed9f4305107469cf803fadbd2",
+        "provider_name_en": "City of Penticton",
+        "provider_url": "https://open.penticton.ca"
+    },
+    {
+        "uid": "3dfaa4ddc4e817df57fe168a1fa8764eb9ecefc6d4f70df354ecabd241e2648a",
+        "provider_name_en": "City of Peterborough",
+        "provider_url": "https://data-ptbo.opendata.arcgis.com/"
+    },
+    {
+        "uid": "254c07fe34aa4d622444f057e5053996ef51913f3fbd6307e4c7891b9c0aa948",
+        "provider_name_en": "District of West Vancouver",
+        "provider_url": "https://westmap.westvancouver.ca"
+    },
+    {
+        "uid": "a7b5822d762b51db07241e0f9ef9473d06299e40c5fc6aab8e0a2134c3c6e668",
+        "provider_name_en": "Ville de Trois-Rivières",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-trois-rivieres"
+    },
+    {
+        "uid": "2fb7fc006ae45632c410ad38b9999a246d4085561f61b2e40f1cbd4bb9bb07ce",
+        "provider_name_en": "Ville de Rouyn-Noranda",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-rouyn-noranda"
+    },
+    {
+        "uid": "12c12c6d5dbdd85f6d46a1799529a3ccd475c4ae1a6361f76d9c23a8f465cc97",
+        "provider_name_en": "Ville de Lévis",
+        "provider_url": "https://www.donneesquebec.ca/recherche/organization/ville-de-levis"
+    },
+    {
+        "uid": "56ad4c71aba7a098b272d0f1c46165af06bad22f0fbcaf0f206242a71eabf03d",
+        "provider_name_en": "PurpleAir",
+        "provider_url": "https://www2.purpleair.com/"
+    },
+    {
+        "uid": "f732a3b85c75fe6c0f8b176f3b103193865298705bdc5faadc43854430826156",
+        "provider_name_en": "City of Sault Ste. Marie",
+        "provider_url": "https://cityssm.github.io/soomaps-data/"
+    },
+    {
+        "uid": "5a21a53158f8c1325e998e8f12278aedafd6cc241813b2e9b0239ae9f5901175",
+        "provider_name_en": "County of Grande Prairie",
+        "provider_url": "https://opendata.countygp.ab.ca/"
+    },
+    {
+        "uid": "61cd0913db0c2c24ed3101266ac33068dbf7220c01deefc852489a5833a41666",
+        "provider_name_en": "City of Abbotsford",
+        "provider_url": "https://opendata-abbotsford.hub.arcgis.com"
+    },
+    {
+        "uid": "e4218bddd4eb86d131d238f25e8e374b160fa5551c2a448d1b799df9a4b12c6e",
+        "provider_name_en": "Municipality of Chatham-Kent",
+        "provider_url": "https://www.chatham-kent.ca/services/digitalresources/Pages/Maps.aspx"
+    },
+    {
+        "uid": "9935385898b9a7ca5a00fd261756848331103325a9dcdc0dd629b23089690d65",
+        "provider_name_en": "Ville de Saint-Jean-sur-Richelieu",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-saint-jean-sur-richelieu"
+    },
+    {
+        "uid": "1c60484f6f63c5f1dabdc903ef827a8ad412f17d1e7f0d208a542b0e0d009240",
+        "provider_name_en": "Property Valuation Services Corporation",
+        "provider_url": "https://www.thedatazone.ca/browse"
+    },
+    {
+        "uid": "66b36c7003b711bb342860fc42a8979d015ea08cefb87228678bf09f1b0035e6",
+        "provider_name_en": "Ville de Drummondville",
+        "provider_url": "https://donnees-vdrummondville.opendata.arcgis.com"
+    },
+    {
+        "uid": "f0cdb756f60514b138c4ef5ab17298c6fa34440fd34c33e0529c9e343fb2fde5",
+        "provider_name_en": "Town of Caledon",
+        "provider_url": "https://data-caledon.opendata.arcgis.com"
+    },
+    {
+        "uid": "80c07b74e6c6317db98f443af2bab778418f75add6b4e0b38d6604326387d9a2",
+        "provider_name_en": "City of Fredericton",
+        "provider_url": "https://data-fredericton.opendata.arcgis.com"
+    },
+    {
+        "uid": "ba28c6fb5aa4bd35b579b939f6c94eaa131cc5aedfdbe4718b03500f2521aa55",
+        "provider_name_en": "Town of Aurora",
+        "provider_url": "https://town-of-aurora-data-hub-aurora.hub.arcgis.com"
+    },
+    {
+        "uid": "99d220d49af79f5b2b9b13f3a7d19c3fff114d16601f55e28e51c49db4907913",
+        "provider_name_en": "City of Belleville",
+        "provider_url": "https://opendata-bellevillegis.hub.arcgis.com"
+    },
+    {
+        "uid": "fdbafcfce9010a045b528b8057bd928fc362865dc91979feb2a193673a0fc78e",
+        "provider_name_en": "City of North Bay",
+        "provider_url": "https://data-northbaygis.hub.arcgis.com"
+    },
+    {
+        "uid": "d11fb50d824a7e0d541434878776ebf78fbe1ec7ec10377a4d28f49955320a2f",
+        "provider_name_en": "Ville de Victoriaville",
+        "provider_url": "https://partage-victoriaville.opendata.arcgis.com"
+    },
+    {
+        "uid": "56ef2bada840c159bb849f35d5e07c466fed78d2ca6e65878ed7d90b349793f0",
+        "provider_name_en": "MRC Bécancour",
+        "provider_url": "https://www.donneesquebec.ca/organisation/mrc-becancour"
+    },
+    {
+        "uid": "22f431d5022d53e81594afd1400d8876c3512a0633d0a978287209790710cdae",
+        "provider_name_en": "MRC de Nicolet-Yamaska",
+        "provider_url": "https://www.donneesquebec.ca/organisation/mrc-de-nicolet-yamaska"
+    },
+    {
+        "uid": "028f7c26247e2c13241aa905e614e3d6962bbc7a70a3133b35fbc2dcb1a94d0b",
+        "provider_name_en": "City of Calgary",
+        "provider_url": "https://data.calgary.ca/"
+    },
+    {
+        "uid": "d6ef685b5df79d10fa3526c74ed7752ff2a1737ab9bd48f1e18ddd680a52d4cb",
+        "provider_name_en": "Town of Cochrane",
+        "provider_url": "https://data-cochranegis.opendata.arcgis.com/"
+    },
+    {
+        "uid": "9947cf56a8098c5516f7f21557e0185ecc28ac45c0a4454b5268bffd45bfe9a2",
+        "provider_name_en": "City of Edmonton",
+        "provider_url": "https://data.edmonton.ca/"
+    },
+    {
+        "uid": "9883d25cac023b22329d8cf7598a28d3920d600d367cfccfa5fd53cc112c1198",
+        "provider_name_en": "City of Lethbridge",
+        "provider_url": "http://opendata.lethbridge.ca/"
+    },
+    {
+        "uid": "578e23089761ab26557a2d4a4a83a9d4d141e7d6c3d81e2d167e96c6bbb82da6",
+        "provider_name_en": "City of Grande Prairie",
+        "provider_url": "https://data.cityofgp.com/"
+    },
+    {
+        "uid": "95e0753eb39ce67b4bb6aab2d28b0569e43bd8b301e9e765e6d9229d29a739ed",
+        "provider_name_en": "City of Red Deer",
+        "provider_url": "https://data.reddeer.ca/"
+    },
+    {
+        "uid": "dcbe379f57ba0eab34e3059c1ad77de3c9ccfd9c1a05732f557f3371e5c22b30",
+        "provider_name_en": "Strathcona County",
+        "provider_url": "https://data.strathcona.ca/"
+    },
+    {
+        "uid": "362362fc4d69d5aee92b9a416015685204e80b217143782c7b4308ed25e09522",
+        "provider_name_en": "City of St. Albert",
+        "provider_url": "https://data.stalbert.ca/"
+    },
+    {
+        "uid": "6c42fff2f90edfbc2eee13cd333eb1e4b7da25f3b34cc38cd95465fe825b08f0",
+        "provider_name_en": "City of Vancouver",
+        "provider_url": "https://opendata.vancouver.ca/"
+    },
+    {
+        "uid": "3c5ac450b8a74ac06c1cacdb981b539b94ca2c06d91c35f8c2a930f7c34c696a",
+        "provider_name_en": "District of North Vancouver",
+        "provider_url": "http://geoweb.dnv.org/"
+    },
+    {
+        "uid": "62e7af4437f7f36d34bbdb0b66c2d72608650f3d99b0fb6aeead38e957a46b5d",
+        "provider_name_en": "City of Victoria",
+        "provider_url": "http://opendata.victoria.ca/"
+    },
+    {
+        "uid": "85f3088fd2a4513e8a9ad3063f4045f111adfbe93a7e5a692a6beb646494508d",
+        "provider_name_en": "City of Kelowna",
+        "provider_url": "http://opendata.kelowna.ca/"
+    },
+    {
+        "uid": "4c57c741ea8a64b84fe646bd27dd60b5422051dc2eeb482ebec8f34ebddc90f6",
+        "provider_name_en": "City of Kamloops",
+        "provider_url": "http://mydata-kamloops.opendata.arcgis.com/"
+    },
+    {
+        "uid": "8a178c305e9ea231c698876401c16760a7aa71d1df4692736db62fff215c32fb",
+        "provider_name_en": "Township of Langley",
+        "provider_url": "https://data-tol.opendata.arcgis.com/"
+    },
+    {
+        "uid": "6a3b1f0efd753ef5013afe15ba909b3d14304428ad382a0682a68494b68966e5",
+        "provider_name_en": "City of White Rock",
+        "provider_url": "http://data.whiterockcity.ca/"
+    },
+    {
+        "uid": "9912bab6c8d475d0683d7fe4f2500b16fb270b7de74d69fda83f23c2085c6f9b",
+        "provider_name_en": "City of Nanaimo",
+        "provider_url": "https://www.nanaimo.ca/"
+    },
+    {
+        "uid": "6dd8ff67ee27e8ac6c3cf415f49f1cc4f905d5a9407a84ffe9e791d76b455680",
+        "provider_name_en": "City of Chilliwack",
+        "provider_url": "https://www.chilliwack.com/"
+    },
+    {
+        "uid": "025c528d6b381f375f803e610fd25f06a2a1118314cddbd1db5e129728afa236",
+        "provider_name_en": "City of Maple Ridge",
+        "provider_url": "https://opengov.mapleridge.ca/"
+    },
+    {
+        "uid": "218ee77ec55cfae1a911bd6cfaae02a39f016dc8d3c6bd22f364069d419e1c57",
+        "provider_name_en": "City of New Westminster",
+        "provider_url": "http://opendata.newwestcity.ca/"
+    },
+    {
+        "uid": "d8523ce4af1fa53209275886385c1afa8dbcd50e36f2d345f3ba112959cda084",
+        "provider_name_en": "City of Port Moody",
+        "provider_url": "https://data.portmoody.ca/"
+    },
+    {
+        "uid": "cbe8fbdce3f2bf143001f91007ead727455cd21aad27689b5d9199ef4fb6e29c",
+        "provider_name_en": "City of Prince George",
+        "provider_url": "https://data-cityofpg.opendata.arcgis.com/"
+    },
+    {
+        "uid": "0f25b3486d1ab7f8772cf3512780115f8200e56557dda5b6bb93e3b163ed01c4",
+        "provider_name_en": "City of Surrey",
+        "provider_url": "https://data.surrey.ca/"
+    },
+    {
+        "uid": "dd4d0849181739d46df5b67f601ded2b00e80718d3bcf53cb7eced63ed76d774",
+        "provider_name_en": "City of Campbell River",
+        "provider_url": "https://data-crcc.opendata.arcgis.com/"
+    },
+    {
+        "uid": "481725cc512a13690f75078422546b8e0ac1dbe28259913fdf72bf9acc9f4c17",
+        "provider_name_en": "City of Winnipeg",
+        "provider_url": "https://data.winnipeg.ca/"
+    },
+    {
+        "uid": "9a5f6b1d77f69d7895ac07ad2ff005e97930bf934a584a6b05d219842dc5f518",
+        "provider_name_en": "City of Moncton",
+        "provider_url": "http://open.moncton.ca/"
+    },
+    {
+        "uid": "7a88638a503785460bee5e56a77b8e8ebc2e29885f01d49595356c486530e302",
+        "provider_name_en": "City of Saint John",
+        "provider_url": "http://catalogue-saintjohn.opendata.arcgis.com/"
+    },
+    {
+        "uid": "1acd62948d5b13a6417cf225f8ed692c1b94494e6d6f637703d7afd347e2e193",
+        "provider_name_en": "Province of Newfoundland and Labrador",
+        "provider_url": "https://opendata.gov.nl.ca/"
+    },
+    {
+        "uid": "3df662f0b7ce7394a1fb8d734e36684c2746d4b89aa81bc5d2741de5a5b47b45",
+        "provider_name_en": "Province of Nova Scotia",
+        "provider_url": "https://data.novascotia.ca/"
+    },
+    {
+        "uid": "595927f1350b8a5aa6bbfcc88517f0deb758976118755661318c9a6223c5513f",
+        "provider_name_en": "City of Barrie",
+        "provider_url": "http://public-barrie.opendata.arcgis.com/"
+    },
+    {
+        "uid": "376ed1064ad4af659a0509f98923da5ed5c2a18d34fc4a2d9b3d0604f461e14d",
+        "provider_name_en": "City of Brampton",
+        "provider_url": "http://geohub.brampton.ca/"
+    },
+    {
+        "uid": "a0aabc06a796c60a6bd36dd8fb22f517c5df4e474f65cc1ac48799d7f6aba93f",
+        "provider_name_en": "City of Burlington",
+        "provider_url": "https://navburl-burlington.opendata.arcgis.com/"
+    },
+    {
+        "uid": "71511acd47d3706cb00620ec3f2d02f3bb4be95c3ce25e077a33650784b5d92a",
+        "provider_name_en": "Regional Municipality of Durham",
+        "provider_url": "https://opendata.durham.ca/"
+    },
+    {
+        "uid": "324a7906f6fcf870491deff8382505fbbc3ee1fa4c702b7b74866b10208717df",
+        "provider_name_en": "City of Hamilton",
+        "provider_url": "https://open.hamilton.ca/"
+    },
+    {
+        "uid": "42335128aa5088afebf2aec9a03d7ce2377481447be64ac07e5fd048506299d4",
+        "provider_name_en": "City of Cambridge",
+        "provider_url": "https://geohub.cambridge.ca"
+    },
+    {
+        "uid": "70cfd32fc5e66beb6caa74dc9180fb0b13073d0fe4c0c20f5821fbaf851366ce",
+        "provider_name_en": "City of Kitchener",
+        "provider_url": "https://open-kitchenergis.opendata.arcgis.com"
+    },
+    {
+        "uid": "388ae73f8bd9c269b93261754bbfbc692bb6c52d36c242916e55dbec6c2fa312",
+        "provider_name_en": "Region of Waterloo",
+        "provider_url": "https://rowopendata-rmw.opendata.arcgis.com"
+    },
+    {
+        "uid": "78d253f575d2cba331e46a598c0214a54d6fce4dc1fd77e8ffacefc1ee6e7a21",
+        "provider_name_en": "Grey County",
+        "provider_url": "https://maps.grey.ca/"
+    },
+    {
+        "uid": "f56fc276dd0dc4360c08fc8372bf7743c7b73bf79efa56b810a49d76961e6326",
+        "provider_name_en": "Haldimand County",
+        "provider_url": "http://data-huron.opendata.arcgis.com/"
+    },
+    {
+        "uid": "3ff9b7f81f40c541ded2697b1a208af3466254bc47fc99ee68edfa5b67bd88e9",
+        "provider_name_en": "City of Kingston",
+        "provider_url": "https://opendatakingston.cityofkingston.ca/"
+    },
+    {
+        "uid": "7959e75af53dd8f90d84619d8b682edab1cf5189c174460012d775e98a5e88ee",
+        "provider_name_en": "City of London",
+        "provider_url": "https://opendata.london.ca/"
+    },
+    {
+        "uid": "9cb4f5b3178aee236ba039b1cf0f4bb76399f9a1a2e647fb1b3f0c02420f5ee6",
+        "provider_name_en": "City of Markham",
+        "provider_url": "http://data-markham.opendata.arcgis.com/"
+    },
+    {
+        "uid": "a9b6265775ac4885f46e7583d6df0feb4497e0390d9431abc663fe0ceada0587",
+        "provider_name_en": "City of Mississauga",
+        "provider_url": "http://data.mississauga.ca/"
+    },
+    {
+        "uid": "5243d8c683c774aad5f827a8138bf8e8dedef0707ebceca5ee9d8fe30749603d",
+        "provider_name_en": "City of Niagara Falls",
+        "provider_url": "https://niagarafalls.ca/"
+    },
+    {
+        "uid": "269101d0da78fd58d1e1485a4dc9179a7fed63eb56d8a2c454ac048c34b0d836",
+        "provider_name_en": "Regional Municipality of Niagara",
+        "provider_url": "https://niagaraopendata.ca/"
+    },
+    {
+        "uid": "f7a34739156dab32a67ce1c199a9bb27c9e5fe0957ae70f0b4219a866759759c",
+        "provider_name_en": "Norfolk County",
+        "provider_url": "http://opendata.norfolkcounty.ca/"
+    },
+    {
+        "uid": "1440ba74eb642b6276c9511e93c44f7bd09fef32eb18cec5947ee3d83ef6310b",
+        "provider_name_en": "Town of Oakville",
+        "provider_url": "https://portal-exploreoakville.opendata.arcgis.com/"
+    },
+    {
+        "uid": "f43b42c43c71562714065860dc6c758ad08a07841e7d931886a0306ce1171e54",
+        "provider_name_en": "City of Ottawa",
+        "provider_url": "https://open.ottawa.ca/"
+    },
+    {
+        "uid": "bfaea16292a3e0f359ccb4dd4eef5d1525eb0036eb0eaea6bfd49be03e5ade85",
+        "provider_name_en": "Peel Region",
+        "provider_url": "http://opendata.peelregion.ca/"
+    },
+    {
+        "uid": "1a9c6cbed075625770b36c605c236545d7de9ab89f85e6c09383b03c88884ff5",
+        "provider_name_en": "City of Toronto",
+        "provider_url": "https://open.toronto.ca/"
+    },
+    {
+        "uid": "a5d3d2f3495a25fb3039267abf00f4ae00ca44c63ff78a035da21be44611d147",
+        "provider_name_en": "City of Welland",
+        "provider_url": "https://www.welland.ca/"
+    },
+    {
+        "uid": "f667c6ecd8341e51327586fcadfc8df6627f33f9903546b3a298559169a57d74",
+        "provider_name_en": "York Region",
+        "provider_url": "https://insights-york.opendata.arcgis.com/"
+    },
+    {
+        "uid": "4bdf182002032a7a990b9833f9a47105baf7918ab854aee7547de15a80ebaad0",
+        "provider_name_en": "Province of Québec",
+        "provider_url": "https://www.donneesquebec.ca/organisation/gouvernement-du-quebec/"
+    },
+    {
+        "uid": "0dee378e040fda4808ad579d1748873fc27833da372686750705557ac334af5e",
+        "provider_name_en": "Ville de Blainville",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-blainville"
+    },
+    {
+        "uid": "97da5446df52523585f26e563f106f33f8ca5ff2e678199802b39949b0726801",
+        "provider_name_en": "Ville de Gatineau",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-gatineau"
+    },
+    {
+        "uid": "1e1d68145b66b7ed084483aa6571a159e1b0e96104d5da0d6da195caac0b455e",
+        "provider_name_en": "Ville de Laval",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-laval"
+    },
+    {
+        "uid": "dfa59a0bd498540fc7f36169dfd961a4b6d10862876b3fabacd5bd273c0f3958",
+        "provider_name_en": "Ville de Longueuil",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-longueuil"
+    },
+    {
+        "uid": "a0d3c4d43a0a277ab0e09f930aa6681b4e6ef0e40f088af50ec3551e40dd7bdd",
+        "provider_name_en": "Ville de Montréal",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-montreal"
+    },
+    {
+        "uid": "d6b0483529e5860e9bfd6defd43ba780d63c6523fa54ae461929635849e57a57",
+        "provider_name_en": "Ville de Québec",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-quebec"
+    },
+    {
+        "uid": "0d04265c66a86b9333362f978766fdf818ad7dc19a33b11bf2a6f18bc1f72915",
+        "provider_name_en": "Ville de Repentigny",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-repentigny"
+    },
+    {
+        "uid": "8e95787b64d869a5504244b05b42604bd0864185797748f7ab2c3dd2fd80bc63",
+        "provider_name_en": "Ville de Rimouski",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-rimouski"
+    },
+    {
+        "uid": "b61dedd36c3a7b8b16f6d6bd58d76f3b4cff7cc70708c658ff60f80f6bff0f51",
+        "provider_name_en": "Ville de Sherbrooke",
+        "provider_url": "https://www.donneesquebec.ca/organisation/ville-de-sherbrooke"
+    },
+    {
+        "uid": "f6f82925c148aa251a2c131e95c09688dbb031a61bc3d5d5bebaf98b6d94d6df",
+        "provider_name_en": "City of Burnaby",
+        "provider_url": "https://data.burnaby.ca/"
+    },
+    {
+        "uid": "7850d410f56fe4b148d9d7f9bcc4f011999073a38e1bb10bd231b30149bc99c8",
+        "provider_name_en": "District of Squamish",
+        "provider_url": "https://data.squamish.ca/"
+    },
+    {
+        "uid": "33b2b9be2506528e714d4cbc6dd06189320da822c19c312180c9ffd65fe81cb8",
+        "provider_name_en": "City of Pickering",
+        "provider_url": "http://opendata.pickering.ca/"
+    },
+    {
+        "uid": "2497fdb74d4b12d4d7a206514eec2e37063c34b57697df345cbe7d1c00f1be2c",
+        "provider_name_en": "Canadian Museums Association",
+        "provider_url": "https://www.museums.ca/"
+    },
+    {
+        "uid": "8e12e41a295ad6ff454cf2924390dcef252dffe26b3afa36d6cd59bdc9a65584",
+        "provider_name_en": "Province of Alberta",
+        "provider_url": "https://open.alberta.ca/opendata/"
+    },
+    {
+        "uid": "b18dea60d57b727122d1a7c6edf1d276cc8b23140e0c286ce201252bf8baf111",
+        "provider_name_en": "Province of Manitoba - Education and Early Childhood Learning",
+        "provider_url": "https://www.edu.gov.mb.ca/"
+    },
+    {
+        "uid": "4fd9bc40b689dfce1b1b9d337954b1c299875abd20253d64e0174b2d6387fd5f",
+        "provider_name_en": "Province of New Brunswick - Education and Early Childhood Development",
+        "provider_url": "https://www.nbed.nb.ca/"
+    },
+    {
+        "uid": "c5777dcea53ebbcf03ac71e8e7e9f0b551c46baced45772ea1ab5ac99d3d4b02",
+        "provider_name_en": "Service New Brunswick",
+        "provider_url": "http://www.snb.ca/"
+    },
+    {
+        "uid": "17c08c91e4b9e847d1f6990deb83e8ab3bf90c3d7b464120637021257da36d5a",
+        "provider_name_en": "Province of Nova Scotia - Education and Early Childhood Development",
+        "provider_url": "http://ns-schools.ednet.ns.ca/"
+    },
+    {
+        "uid": "c40e632636d5439da25b10fb5a03aeb9f68bdc2340965be7eb94a562f41c53fc",
+        "provider_name_en": "Province of Ontario",
+        "provider_url": "https://data.ontario.ca/"
+    },
+    {
+        "uid": "d7dac7d5aa4aa3fbaa1d6ba890814a2f8e46da076af4cfe5d6605d4d029cb971",
+        "provider_name_en": "Province of Prince Edward Island",
+        "provider_url": "https://data.princeedwardisland.ca/"
+    },
+    {
+        "uid": "3df937bff5edfae724010482817ef41b655e6d5717494224ba269a2045078d5b",
+        "provider_name_en": "Province of Saskatchewan",
+        "provider_url": "https://publications.saskatchewan.ca/"
+    },
+    {
+        "uid": "8bb5e518ea07b1dd0e3688de131befa7f72a77a4c732873c0c29f2d52c115b62",
+        "provider_name_en": "Yukon Territory",
+        "provider_url": "https://yukon.ca/"
+    },
+    {
+        "uid": "374eed325f2fe54990aa6508f6144fe049f3525712bd31e6b9cd33565e80fe8a",
+        "provider_name_en": "Northwest Territories - Education, Culture and Employment",
+        "provider_url": "https://www.ece.gov.nt.ca/"
+    },
+    {
+        "uid": "42dfe1081585d6f967f8bd551ab583caac212cb401a475b5c5e788bc3dcbe444",
+        "provider_name_en": "Nunavut Territory",
+        "provider_url": "https://www.gov.nu.ca/"
+    },
+    {
+        "uid": "8e76d7c89fd42ac0004e33832120ed1f2df0c1859a45f8ef6befac0e7cc90103",
+        "provider_name_en": "Alberta Health Services",
+        "provider_url": "https://www.albertahealthservices.ca/"
+    },
+    {
+        "uid": "687c392989db2f224cc909c23848f457b447b23a78a51a8795491d7123339f06",
+        "provider_name_en": "Canadian Institute for Health Information",
+        "provider_url": "https://www.cihi.ca/"
+    },
+    {
+        "uid": "ca80351c9565bffae8868aa455987246122d26662c3ac9443dfdc865b7375a08",
+        "provider_name_en": "Interlake-Eastern Regional Health Authority",
+        "provider_url": "https://www.ierha.ca/"
+    },
+    {
+        "uid": "cad06ac0a849cabd44e046be72aa32ba9e43953a0598a78826ea415c6bc2ad96",
+        "provider_name_en": "Northern Health Region",
+        "provider_url": "https://northernhealthregion.com/"
+    },
+    {
+        "uid": "c731e3711dfde60e00ed06f9b7712bad90c8223e54f5b0f7ec5e009cc0bae55d",
+        "provider_name_en": "Prairie Mountain Health",
+        "provider_url": "https://www.prairiemountainhealth.ca/"
+    },
+    {
+        "uid": "21737f2b8ebc709809997e66a67fa4ea7bb97a35bfa3a8f4aa4f321a8ed3cfdf",
+        "provider_name_en": "Southern Health",
+        "provider_url": "https://www.southernhealth.ca/"
+    },
+    {
+        "uid": "91016d884285d460d28b5609114afb7e0950c27b97131fe7dc9169a4b877c743",
+        "provider_name_en": "Winnipeg Regional Health Authority",
+        "provider_url": "https://wrha.mb.ca/"
+    },
+    {
+        "uid": "d007e534960c12782e0db552b7a54b50c2c7b3fdac2a8022edf2a1889b2cc724",
+        "provider_name_en": "Province of Manitoba",
+        "provider_url": "https://geoportal.gov.mb.ca/"
+    },
+    {
+        "uid": "8cff2fafb971a97fe386085392081827ceeb26c11bb049fb90496189634e540b",
+        "provider_name_en": "Province of New Brunswick",
+        "provider_url": "https://gnb.socrata.com/"
+    },
+    {
+        "uid": "2cbf332f90fcdf85acd48d58978fff380a040da78ef292f79356b164befca1cd",
+        "provider_name_en": "Central Health",
+        "provider_url": "https://www.centralhealth.nl.ca/"
+    },
+    {
+        "uid": "bd83f5f863cfb8fc6ed0e31ea2ea273c90c5d75fca9fb8e1372b8041ebfd9160",
+        "provider_name_en": "Eastern Health",
+        "provider_url": "http://www.easternhealth.ca/"
+    },
+    {
+        "uid": "418f93f43be80aa25c4c743177d7727bb70307f6eae55950b3eff98ca1c7adae",
+        "provider_name_en": "Labrador-Grenfell Health",
+        "provider_url": "https://www.lghealth.ca/"
+    },
+    {
+        "uid": "d7ebb667222484458c1864db72b3588e957e3958b0a9e4592844c56ccceae085",
+        "provider_name_en": "Western Health",
+        "provider_url": "https://westernhealth.nl.ca/"
+    },
+    {
+        "uid": "94c0f7fdb387f04425c29b6448e509c5838ab6ba3cadf2c9e05912e9a2fa1083",
+        "provider_name_en": "Nova Scotia Health",
+        "provider_url": "https://www.nshealth.ca/"
+    },
+    {
+        "uid": "952e130aeca8ffcd59267816b7d5887c410642e8fc77f3bb4ef6c551d42001cc",
+        "provider_name_en": "Nova Scotia Health - Mental Health and Addictions",
+        "provider_url": "https://mha.nshealth.ca/"
+    },
+    {
+        "uid": "d4d8d62fdf81b2630abed40aa7158db21f75409c209fcae6964d6802647fce8a",
+        "provider_name_en": "Northwest Territories - Health and Social Services",
+        "provider_url": "https://www.hss.gov.nt.ca/"
+    },
+    {
+        "uid": "7cded966df70cc1f1a621935f6edf3e5795fd59c852938b6e3d9b08297015a57",
+        "provider_name_en": "Nunavut",
+        "provider_url": "https://gov.nu.ca/"
+    },
+    {
+        "uid": "7ba481126b3b2027428f696d0a19610dc5efccd0aff8c79987fea7a1a1dd7305",
+        "provider_name_en": "Regional Municipality of York",
+        "provider_url": "http://insights-york.opendata.arcgis.com/"
+    },
+    {
+        "uid": "ed7437581b0012b51b7d1180a1e1e5f1571c32c4c728412c4f21f2492b71e2fb",
+        "provider_name_en": "City of Guelph",
+        "provider_url": "http://data.open.guelph.ca/"
+    },
+    {
+        "uid": "c8e1ccdaa2566d553aba29f0f17f7398fef4d7b38c868af9f6d2df44dddbc5d1",
+        "provider_name_en": "Public Health Agency of Canada",
+        "provider_url": "https://www.canada.ca/en/public-health.html"
+    },
+    {
+        "uid": "8cd97adcdc3b7c12c7c2fbfd2005baa398dbaf7da8ab0bc1498565e695917021",
+        "provider_name_en": "Santé Montréal",
+        "provider_url": "https://santemontreal.qc.ca/"
+    },
+    {
+        "uid": "e36ed8af8e0df36e20ba61900e78574f70cfd03c75e5a43e4b09f7ba135d9e78",
+        "provider_name_en": "Saskatchewan Health Authority",
+        "provider_url": "https://www.saskhealthauthority.ca/"
+    },
+    {
+        "uid": "3ec1eaff678ebf9aa5046f8c2a8e87f0fb0383266c05c98c539512c444263641",
+        "provider_name_en": "Province of Saskatchewan",
+        "provider_url": "https://www.saskatchewan.ca/"
+    },
+    {
+        "uid": "e9072d88ff9402430e47d290a91bf5a9004eb6d1d2381a759ef514531514b039",
+        "provider_name_en": "Yukon Hospitals",
+        "provider_url": "https://yukonhospitals.ca/"
+    },
+    {
+        "uid": "d8d82ed96778bb9393dfa08cd75eb03a162aa73a09615eb7d6c6dc0d1b1bcb3e",
+        "provider_name_en": "Northwest Territories",
+        "provider_url": "https://opendata.gov.nt.ca/"
+    },
+    {
+        "uid": "9b277e9a05010b3ad26ea94fe192f5ac18442f22c79c58978e274526919827e0",
+        "provider_name_en": "City of Airdrie",
+        "provider_url": "https://data-airdrie.opendata.arcgis.com/"
+    },
+    {
+        "uid": "698403200416a98be1ab6879d428a68e96c0cb543136c7955f5fa2e36b1b6f7d",
+        "provider_name_en": "Town of Canmore",
+        "provider_url": "https://opendata-canmore.opendata.arcgis.com/"
+    },
+    {
+        "uid": "6fe135fd2ab0ccb622c90ce7d498ec7676fb99ca744349cb20a613158eec8e1d",
+        "provider_name_en": "City of Chestermere",
+        "provider_url": "https://data-chestermere.opendata.arcgis.com/"
+    },
+    {
+        "uid": "66d1fc42764b27f5ea1eca91593ddc1b75dccece5231e8ce2fe924cc9e2aa98c",
+        "provider_name_en": "City of Courtenay",
+        "provider_url": "https://data-courtenay.opendata.arcgis.com/"
+    },
+    {
+        "uid": "1e7ca97d8db1327cf8de847c4cbd4a0ed7bca652fed5d4546bc7c6db699c34ce",
+        "provider_name_en": "District of Saanich",
+        "provider_url": "https://www.saanich.ca/EN/main/local-government/data-catalogue-1.html"
+    },
+    {
+        "uid": "6bac8906ae134e5548c59095fb13fe100bb41154df135c8b9bdfd6a991027118",
+        "provider_name_en": "City of Brandon",
+        "provider_url": "http://opengov.brandon.ca/"
+    },
+    {
+        "uid": "61e85bd1b346da460083b07e2c3f907d3e15eb4d5c52c014a9be53eecf5b0986",
+        "provider_name_en": "Halifax Regional Municipality",
+        "provider_url": "https://data-hrm.hub.arcgis.com/pages/open-data-catalogue"
+    },
+    {
+        "uid": "df5e08475325c71204936cf5c87803ef2d8375851960c9a9de519084bea35533",
+        "provider_name_en": "City of Yellowknife",
+        "provider_url": "http://opendata.yellowknife.ca"
+    },
+    {
+        "uid": "4e8cbb7ddecf6763f45b513cd051a03349eb68226e7b46c77bda34797be06356",
+        "provider_name_en": "City of Brantford",
+        "provider_url": "http://data-brantford.opendata.arcgis.com"
+    },
+    {
+        "uid": "6c398c7ebb6e01b6346f15b77a19900f7908a4e35d7e4cb62b3cfb2fdf096613",
+        "provider_name_en": "City of Greater Sudbury",
+        "provider_url": "http://opendata.greatersudbury.ca"
+    },
+    {
+        "uid": "543b30198139ab38f14c080929dded0f47367b75c53c4516717c308dd881e0bc",
+        "provider_name_en": "Town of Milton",
+        "provider_url": "https://discover-milton.hub.arcgis.com/pages/open-data"
+    },
+    {
+        "uid": "2f43c7c6fd7d590c8d262da19c0bcef99da6ba368772668937ae5dd8d9f3fe32",
+        "provider_name_en": "Town of New Market",
+        "provider_url": "https://navigate-newmarket.hub.arcgis.com/pages/open-data"
+    },
+    {
+        "uid": "f996cdca3be30f1a25805d1d5ecf14bfc4c227ca7b69060b35f269dd56b010b7",
+        "provider_name_en": "City of St. Catharines",
+        "provider_url": "https://niagaraopendata.ca/organization/city-of-st-catharines"
+    },
+    {
+        "uid": "f82f7eaa7296bf18c312f35a81c5fcc1964d3879da8a28435231e3cfdccb80cd",
+        "provider_name_en": "Ville de Shawinigan",
+        "provider_url": "https://www.donneesquebec.ca/recherche/organization/ville-de-shawinigan"
+    },
+    {
+        "uid": "fdf94770dba403590874e114920bec0b87e46d2c3f614e290543d7e86f84b304",
+        "provider_name_en": "City of Regina",
+        "provider_url": "https://open.regina.ca"
+    },
+    {
+        "uid": "013099ebbc60aee97f5239e31b63b4ac9ed91e0fcd20d2b459a398117750166e",
+        "provider_name_en": "City of Saskatoon",
+        "provider_url": "http://opendata-saskatoon.cloudapp.net"
+    }
+]

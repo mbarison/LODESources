@@ -1,0 +1,668 @@
+[
+    {
+        "uid": "33540d117fc9e2be6ca06b76a008b6d2ba3f673565b260db8478bab23f1374cc",
+        "licence_url": "https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - City of Calgary"
+    },
+    {
+        "uid": "d29a88c63befaf2ca11464a3c35c659ce5a011df658cae2d5df434b99f310855",
+        "licence_url": "https://www.cochrane.ca/947/Open-Data-Licence",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Data Licence - Town of Cochrane."
+    },
+    {
+        "uid": "8746b4b91063608eba2743e9d1de617a71c3907c02d18297035527dce3d8bfa2",
+        "licence_url": "https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/",
+        "open": "",
+        "attribution": "Contains information made available from the City of Edmonton under an open data license."
+    },
+    {
+        "uid": "126131eae2f8f5ec3df93dca3d99a1e0f332e7e586c06c4e755e984db2f33c1a",
+        "licence_url": "https://www.lethbridge.ca/Pages/OpenDataLicense.aspx",
+        "open": "",
+        "attribution": "Contains information made available from the City of Lethbridge under an open data license."
+    },
+    {
+        "uid": "b1f567a613823fa2b83493c613fd89fc57bd195accc033dda0bd0b7efe4210c2",
+        "licence_url": "http://www.cityofgp.com/index.aspx?page=2332",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Data License - City of Grande Prairie."
+    },
+    {
+        "uid": "a3874dfada69ee2961a1309bafc137db6218a8ffe50655e7b0224ca0a668da8b",
+        "licence_url": "http://data.reddeer.ca/About",
+        "open": "",
+        "attribution": "Contains information made available from the City of Red Deer under an open data license."
+    },
+    {
+        "uid": "67dbf8d77f54cba5c4fcca6137c69c0466b4d38db8d555c6f94593751ac5b7d9",
+        "licence_url": "https://data.strathcona.ca/stories/s/bxnd-tfzb",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Strathcona County"
+    },
+    {
+        "uid": "845d1ed6b8ebf0e3e4e1021b3a2fe4edc8a29e09f05bfa411d716073b959fdb6",
+        "licence_url": "https://data.stalbert.ca/pages/licence",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - St. Albert"
+    },
+    {
+        "uid": "0ee031384111dedb95393b20b87a69f016133c2a3d7ce28e0793925c4d144970",
+        "licence_url": "https://vancouver.ca/your-government/open-data-catalogue.aspx#tab19099",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Vancouver."
+    },
+    {
+        "uid": "4520cb8442be32546d7f7f9d421dbe0445bd13b3495081aac2633bbfb13d36bc",
+        "licence_url": "http://geoweb.dnv.org/data/metadata.php?dataset=RegZoning",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - North Vancouver."
+    },
+    {
+        "uid": "d4ce29f731adc630d59d82df954f2684284c63e35d70a6cce292d1db44a07d53",
+        "licence_url": "http://opendata.victoria.ca/pages/open-data-licence",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - City of Victoria."
+    },
+    {
+        "uid": "040f72b26da16da31aed388513235392f237f9beb90085732145d3b1fd8bf5e3",
+        "licence_url": "http://apps.kelowna.ca/images/opendata/opengovernmentlicence.pdf",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - City of Kelowna."
+    },
+    {
+        "uid": "2ce55a5b565841ecab0b7b2b77d8d9025d1bb1ddf8b8a289c7ab0da07cd0d2ac",
+        "licence_url": "https://www.kamloops.ca/node/29807",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Kamloops"
+    },
+    {
+        "uid": "93cc7615e9fdfa340e1f23b0c12ebf634113a91312bceba0bfad37ec5502eada",
+        "licence_url": "https://www.tol.ca/connect/talk-to-us/freedom-of-information/open-data-license/",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government License - Township of Langley."
+    },
+    {
+        "uid": "5e07e8a12d40c491477e0d8b318fbc1194c7fa31ee47eb5e8960be0a57e85329",
+        "licence_url": "https://www.nanaimo.ca/your-government/maps-data/open-data-catalogue/open-data-catalogue-licence",
+        "open": "",
+        "attribution": "Contains information licenced under the Open Government Licence - Nanaimo."
+    },
+    {
+        "uid": "157a1f92ea6b1276c91a8dbadc50fe814b0fe851d7d5ba86d7e56dd27f7e1817",
+        "licence_url": "https://www.chilliwack.com/main/page.cfm?id=2391",
+        "open": "",
+        "attribution": "Contains information made available from the City of Chilliwack under an open data license."
+    },
+    {
+        "uid": "b30f79b0fd436d6f2d9cfa9bde75e148f5b4cae2177947adf39957964865ea13",
+        "licence_url": "http://opengov.mapleridge.ca/pages/open-government-licence",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Maple Ridge"
+    },
+    {
+        "uid": "cbdf2650510d61543fb8c2fd4e739c7ac0b3880bbbec156cf6c16845a2ae1e57",
+        "licence_url": "http://opendata.newwestcity.ca/licence",
+        "open": "",
+        "attribution": "Contains information licenced under the Open Government Licence - City of New Westminster."
+    },
+    {
+        "uid": "c41ae81579f7f4193f013a29f4470c5f795066b42aaca24740afbcce4039462a",
+        "licence_url": "http://www.portmoody.ca/index.aspx?page=1354",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Port Moody"
+    },
+    {
+        "uid": "04790141b4b0d25be4275c38829cd720bc8b48b873a6d8dd661252c571e0bc1d",
+        "licence_url": "http://pgmap.princegeorge.ca/opendata/CityofPrinceGeorge_Open_Government_License_Open_Data.pdf",
+        "open": "",
+        "attribution": "Containsinformation licensed under the Open Government License - City of Prince George"
+    },
+    {
+        "uid": "c5afe2941627f1bc0005fc51c4b20ae430553902d7b84f0bfd87916b2add0034",
+        "licence_url": "http://data.surrey.ca/pages/open-government-licence-surrey",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government License - City of Surrey."
+    },
+    {
+        "uid": "7c3f87669318053af54f4fd44d142ba54d497e2730163e91468dddd5b233fe9c",
+        "licence_url": "https://data.winnipeg.ca/stories/s/Open-Data-Licence/rwzh-4ijx/",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Winnipeg"
+    },
+    {
+        "uid": "c60f28920fbd884b162cf081fa257208194ecf5061144479e99a7e1f0028a2e0",
+        "licence_url": "https://ago-item-storage.s3-external-1.amazonaws.com/3ec310926cbd436cbaa609d8ee9fac15/Open_Data_Terms_of_Use.pdf?X-Amz-Security-Token=FQoGZXIvYXdzEJ7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDD2zzrrj4ybMy8kEkyK3A7vs1Qks4tClljOAPdHNa9hdJc1ySqBbqMMNvH72QZOkyz6G6V462s5zXjiZo%2FzT53YsTCl9Jhzq8LTywCnZNSmRLdNpVaDd1PkvZOyFFZkJPsD3wWwEDXlTYt5OHG3B6DxQKY93tON02iyWwc7V%2FL3S8rPtiIySlg%2FwTGd%2FOklrDNtoA044lT89GPddrCyh7E1MWpJLjC%2BAXwt%2BZJDIyQX%2FeuV%2BMXpF9p5DzV6lO2BWnwk%2BwwPqTtBTqPvjqBv2D4AemKevQd8lNkwtLB5YTMo8%2Bb4kzRp7f7xNvdXtEJAcRxLq8dLbvHHGzY5wY8JOp5DyyG%2B%2FERoOeU2KE9j61LFPWBVxJLqE6uW1okfnkIQUtVi2WHuj4D%2F9MCWMtHRRFlxZCt9xfs67YfPu3h%2BwIlMZYyGYNvxZ0MVZ4KJNF52aLQjC2ABKI09Zl1Sk0yUfBiugilagW%2B9tFRErFNIyEuF1Wh9RhxhefwizWOogDZS4QExmmbBPeMfXUYIlqamyR5JZNU6duosmJGUYS4fJng2R8LnyRYdpDfN%2F1LIiWZGLosSLVSSwemkPJrPblwYX7Ds%2BQ2MxktUohqaX4wU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190214T211858Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAYZTTEKKE3M6ZCLSI%2F20190214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ed9203b42a153cd203e655fb11d41dd065e6da38e377c93cf0231b26666bfffa",
+        "open": "",
+        "attribution": ""
+    },
+    {
+        "uid": "b4f78a675fc57ee2690413108a9166173c3f8203aea0fd6da3caba835d57e44d",
+        "licence_url": "https://ago-item-storage.s3.us-east-1.amazonaws.com/2b0da92076ce4cf48cda63a86fdc316f/Open_Data_Policy-2015-v.01-MAR-02.pdf?X-Amz-Security-Token=AgoJb3JpZ2luX2VjEL3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD%2BGcaR5MOqHKo3L4A20x9Tq7BgSLu8KGBwIiqxzFvZlQIhAIZfZLco%2FkqvGyXlU9eEdaa1%2FGDGhjCwIVIIkFkZ32ToKtoDCGUQABoMNjA0NzU4MTAyNjY1Igx3sb%2BuDpx87jeBQigqtwP5t%2BS7xYLnACS577ZqQG6dkfXeyC2VdaAs2ndZMljVoF8mSfQg0QkLg4wkKdFxNnLQ7YQ5nxFknRCfH6SIDvE%2F%2FC%2BNAw8cCVB0xJI%2FBlVXUp6MmYN8P7UC8zS1ZIF58Zo2Un1oymrXWXbc0jQfoxtE%2BWtUyCArHDJpEle0Ce5YKoPHa%2F8nx%2BGs%2BZbARhDvAPVJADAcck%2BjsJm38I5FaeSW%2FVdmb5Pzn0IJTidAtqcGPuxiH9nDWgigb2xUF5QB4T1omd6VoRLsURgrwwGi5KE919yX5HiRLxJ6ottIYTCl7T30h6a6n131z2FgO41dl%2FQhz%2FlBW4WBHz4SmzV2nJHBjAgv4PwrhUVPm3GUhu%2FfS3uPvC5sp5UPLarJz5zzASUv4q8djXKAlMxJyIOAmAhGQhYvGcFclCbINLHwsYQOwTGI1xzLjnbUZLYYyje03yNIpRQxQuyJRovelKU96x0rGYZNo28JEDvJn6zgIOzBpHdAOj%2FSPRf3P1kL1q02fSFoTvvt8ZJjltMIGcmY6DWd8Cq4goMjtykMFcb39FzT7cHiW5793x81XCK%2FpcW46rp%2BWoYXT8PmMNKhlusFOrMBLE45LbXGrHOk%2F9RWkEVqAa6QBIvsjPA9%2FIhMhAo2ZIpjsaJBz2VvZvsoB%2BC70TV%2Fs4GO5QNEfs24IL9Ei2IQqTPy0Av5EgWZzzLrITWuc3qWiwozEeAhwKdOl4blXDU5Jgpc2%2BCyPP3U6B32chztVQ9Wc0Lj9YFAS%2B2MvtsJHHhS4JZrGgsfbLn%2BKdMinzMDh88V6zQLZ3gkwFx09oVqawYTT7ep566PZVTt0JG84UY9984%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190827T213225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAYZTTEKKEUSDO7WEY%2F20190827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=42c6a5f3ac5581899257f0521e7c6d0cb8ecef07ed56cb5bc88456bb2bfb6f9a",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - City of Saint John"
+    },
+    {
+        "uid": "fe5791cb6a23f2e4227c0486a27c8846e9b9175572734fbd4b0efd76830a2a57",
+        "licence_url": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=licence",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Newfoundland and Labrador."
+    },
+    {
+        "uid": "ec7b29fed63994d426d83bafce221b09c178c7879181e01f30a9ac2424a5cd6f",
+        "licence_url": "https://novascotia.ca/opendata/licence.asp",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Nova Scotia"
+    },
+    {
+        "uid": "ad1a4af8349705b6bc0adda463c43d1b9663a5bd606b5a1d8ddf478c20d87ca4",
+        "licence_url": "https://www.barrie.ca/Online%20Services/PublishingImages/OpenData_Images/COB_DataLicense.pdf",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Barrie"
+    },
+    {
+        "uid": "0b3e0a527f870706c561498ac057281c3f8709f63abd4491695e9a56aa78c265",
+        "licence_url": "http://www.brampton.ca/EN/City-Hall/OpenGov/Open-Data-Catalogue/Pages/Terms-of-Use.aspx",
+        "open": "",
+        "attribution": "Copyright - 2012, The City of Brampton (All rights reserved.) All intellectual property and other rights in and to the Dataset belong to the City of Brampton."
+    },
+    {
+        "uid": "b8f67f2024d5a4866077149633760077bb3bd2ddbd922fe53d3ef46f3581f29b",
+        "licence_url": "https://www.burlington.ca/en/services-for-you/resources/Ongoing_Projects/Open_Data/OpenDataBurlingtonTermsOfUseSeptember192011.pdf",
+        "open": "",
+        "attribution": ""
+    },
+    {
+        "uid": "97191fc52337901ed456d58f5ba14b02b5d8faba6e8bde64624d0489964c9663",
+        "licence_url": "https://www.durham.ca/en/regional-government/resources/Documents/OpenDataLicenceAgreement.pdf",
+        "open": "",
+        "attribution": "Contains public sector Information made available under The Regional Municipality of Durham's Open Data Licence"
+    },
+    {
+        "uid": "6d9a8cad7b440b268fefa600160e9f1daeaca75d83b0e9f4c10c55237f4c787d",
+        "licence_url": "https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-licence-terms-and-conditions",
+        "open": "",
+        "attribution": "Contains public sector Data made available under the City of Hamilton's Open Data Licence"
+    },
+    {
+        "uid": "0bdcc501d8649ef323bcd6c601b483819a52d8667b0a01ce87c8b6b968bc32cc",
+        "licence_url": "https://www.cambridge.ca/en/your-city/resources/Open-Data-Licence-Version-2.pdf",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - City of Cambridge"
+    },
+    {
+        "uid": "1abbe52454cb4a0f8ab7562583dfd581eab9458034690b072b626648253bdb6e",
+        "licence_url": "https://www.kitchener.ca/en/city-services/open-data.aspx#",
+        "open": "",
+        "attribution": "Open Government Licence - The Corporation of the City of Kitchener"
+    },
+    {
+        "uid": "082bb3f6536a3370c57880ff70d83541858c9f6ff8ff98d0137feac858c80b5d",
+        "licence_url": "https://www.regionofwaterloo.ca/en/regional-government/open-data.aspx",
+        "open": "",
+        "attribution": "Contains information provided by the Regional Municipality of Waterloo under licence"
+    },
+    {
+        "uid": "9d945dfb5df9fc06f16f11d6e74f1ca453b597e4cee432ad020508bc743eb4e7",
+        "licence_url": "http://maps.grey.ca/pages/terms",
+        "open": "",
+        "attribution": "Contains information licensed under the Grey County Open Data Licence"
+    },
+    {
+        "uid": "aa71203224501bdd7703ee9c5a9e8d163c3bef481cfe52400f03d8a37a60d056",
+        "licence_url": "http://opendata.haldimandcounty.on.ca/",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Haldimand County"
+    },
+    {
+        "uid": "0f356bc82464d6c46f7f78c11f844bda7c483a1647e5f8acd3482897aa29f5bc",
+        "licence_url": "https://www.cityofkingston.ca/documents/10180/144997/GIS_OpenDataLicense.pdf/72f5a9ac-afbc-4fe3-959d-9111c9393bfa",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Data Licence - City of Kingston."
+    },
+    {
+        "uid": "481f2cdb5567e6e76ccdea98bca39b97290f52f98bec01780e3f8ef4eec60fe3",
+        "licence_url": "http://www.london.ca/city-hall/open-data/Pages/OpenData-TermsofUse.aspx",
+        "open": "",
+        "attribution": ""
+    },
+    {
+        "uid": "9ae09fbd71d2a7a56b81450a5a807a868e201edc2a214dc061ad39dfa3569ebd",
+        "licence_url": "http://data-markham.opendata.arcgis.com/pages/terms-of-use",
+        "open": "",
+        "attribution": "Contains public sector Information made available under the City of Markham's Open Data Licence"
+    },
+    {
+        "uid": "3f694ba3925ea549323e92c27f40f9c9549f92b382fbb1a521c23a4d47d3564f",
+        "licence_url": "http://www5.mississauga.ca/research_catalogue/CityofMississauga_TermsofUse.pdf",
+        "open": "",
+        "attribution": ""
+    },
+    {
+        "uid": "0cfb3764e61024cbb4479c83e2ff0d87161cdace453bd8275be242acd11db385",
+        "licence_url": "https://niagarafalls.ca/services/open/terms-and-conditions.aspx",
+        "open": "",
+        "attribution": ""
+    },
+    {
+        "uid": "09fe1d11c6dbc9f50774595e7cce7676bca74877a5d9b148cfed6e72418ea91e",
+        "licence_url": "https://niagaraopendata.ca/pages/open-government-license-2-0-niagara-region",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Niagara Region"
+    },
+    {
+        "uid": "16aeb9a54a5be45460fc4de438dffb718dfa266233682886fc8fa4d1ba32c9b8",
+        "licence_url": "http://opendata.norfolkcounty.ca/datasets/building-footprints",
+        "open": "",
+        "attribution": "Contains public sector Information made available under Norfolk County's Open Data Licence"
+    },
+    {
+        "uid": "e99f73fee668e792a046bfc424ebf190c5b181594c647be61ec5d9893d7ebed5",
+        "licence_url": "https://www.oakville.ca/data/open_data_licence.html",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Town of Oakville."
+    },
+    {
+        "uid": "d35fe84f1615540a4f785877122895cef64818e8f0ef2ed30491071e1972326a",
+        "licence_url": "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - City of Ottawa."
+    },
+    {
+        "uid": "71106b14c75c3788574faf1800c440c92caa355368bc6052d5f9cc0a84ac9f28",
+        "licence_url": "http://opendata.peelregion.ca/terms-of-use.aspx",
+        "open": "",
+        "attribution": "Contains public sector Information made available under The Regional Municipality of Peel's Open Data Licence - Version 1.0"
+    },
+    {
+        "uid": "68465de534ddcab4642eefb998766918594e54a4a08c474cd459cf93f5ac8569",
+        "licence_url": "https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Toronto."
+    },
+    {
+        "uid": "2635ed15ef1f6a6ea2d9c0d57707764516b408b3ff7a10641537c9e7ba8d5774",
+        "licence_url": "https://www.welland.ca/open/OpendataTermUse.asp",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - City of Welland."
+    },
+    {
+        "uid": "c050b03bed9e37830d88ca2ab1bd8b9edd2feed5bdddaaa0cfb6a392662b26da",
+        "licence_url": "http://insights-york.opendata.arcgis.com/datasets/york-region-open-data-licence",
+        "open": "",
+        "attribution": "Contains public sector information made available under The Regional Municipality of York's Open Data Licence"
+    },
+    {
+        "uid": "880c633c08b12a7500c51d892666eb7940ecb7e3c049c0cf0572f8fd9b1de1e2",
+        "licence_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr",
+        "open": "",
+        "attribution": "Vous devez créditer l'oeuvre , intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre."
+    },
+    {
+        "uid": "733743e7d0e8bb8005a89fb1ac92131d84487d531eefb06dc391f7f8c270cbe5",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de Blainvillel et visée par CC BY."
+    },
+    {
+        "uid": "6e6937e973b85bd7fa340a7ec80de998654715e3eb19dfe20c18336f69a68ca0",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de Gatineau et visée par CC BY."
+    },
+    {
+        "uid": "14f67706fab584f4d182ebca5926752af00f8c2b8e8c51c8060a61b2ed62764b",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de Laval et visée par CC BY."
+    },
+    {
+        "uid": "115e8b43cc56c887d36945779334eb89839f56629644ef432243337fa48bc67e",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de Longueuil et visée par CC BY."
+    },
+    {
+        "uid": "a50e1ed6c3079844e33856709b56a36428832a3ec15a88e341f4fdaa3594b728",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de Montreal et visée par CC BY."
+    },
+    {
+        "uid": "e10790e56a7116614b7f107ac91c8cbbebe70bdef671e07597b7a615d6c7b197",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de MQuebec et visée par CC BY."
+    },
+    {
+        "uid": "22c53cc05bcb0d52e4b29157bb761507fdb996bc2e2bf1eb5fd268ff7c0cdfd7",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de Repentigny et visée par CC BY."
+    },
+    {
+        "uid": "fe71d850bdff8f5abe9b654926626e8219d534e7341b1368facde61819939d17",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de Rimouski et visée par CC BY."
+    },
+    {
+        "uid": "1fac073cc0c8abee9935f12c41a99fec2473d4f4c4eb58e4259e185d2a05c690",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "",
+        "attribution": "Contient de l'information fournie par la ville de Shawinigan et visée par CC BY."
+    },
+    {
+        "uid": "a338c61081e67ed02685c048321255a76e23573940124035b340e0e5228600d4",
+        "licence_url": "https://www.burnaby.ca/opendata/licence.html",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - Burnaby"
+    },
+    {
+        "uid": "d443b61c3a1d9ffba4a3a9043863579bf548c2dfa769748ef227a10597a35146",
+        "licence_url": "https://squamish.ca/discover-squamish/maps-and-data/open-data/",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Government Licence - District of Squamish"
+    },
+    {
+        "uid": "ff6baaeb8368325eaa23486a9eb41ba5b42b2ce17ce93c5e9370d855173b1991",
+        "licence_url": "https://www.pickering.ca/en/city-hall/maps-and-open-data.aspx#",
+        "open": "",
+        "attribution": "Contains information licensed under the Open Data Licence 1.0 - City of Pickering"
+    },
+    {
+        "uid": "1eb5129d67e002fe49e8bcbbe591d99f14690a917f7e0be5adfc66330025d6cb",
+        "licence_url": "http://open.alberta.ca/licence",
+        "open": "Y",
+        "attribution": "Contains information licensed under the Open Government Licence – Alberta."
+    },
+    {
+        "uid": "94abb0c29ab6bdbdbc6c57758f332519afd78552bd6a631395b01ab819c8724f",
+        "licence_url": "https://www2.gov.bc.ca/gov/content?id=1AAACC9C65754E4D89A118B875E0FBDA",
+        "open": "N",
+        "attribution": "Copyright © 2023, Province of British Columbia."
+    },
+    {
+        "uid": "9e58da31bc9323a5f21fde1fa7b51fe443263c1933940ba6eceb7a1b534d5f19",
+        "licence_url": "http://www.gov.bc.ca/com/copyright.html",
+        "open": "N",
+        "attribution": "Copyright © 2023, Province of British Columbia."
+    },
+    {
+        "uid": "95acc9e97e83bdf25e607442622e756eaa97caf5a4b577a2764f99ba71fe3eef",
+        "licence_url": "https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf",
+        "open": "Y",
+        "attribution": "Contains information from the Manitoba government, licensed under the OpenMB Information and Data Use Licence (Manitoba.ca/OpenMB)"
+    },
+    {
+        "uid": "fdb87dc389bd15b011a5f7f45edec9cc1749034255cd3b64bf6ddcfd1b7527a0",
+        "licence_url": "http://www.snb.ca/e/2000/data-E.html",
+        "open": "Y",
+        "attribution": "Contains information licensed under the Open Government Licence – New Brunswick."
+    },
+    {
+        "uid": "477e70076b3b4a4610ea9f454baba8f37d2cfce7ef0fec117043354a3c74354c",
+        "licence_url": "https://www.gov.nl.ca/disclaimer/",
+        "open": "N",
+        "attribution": ""
+    },
+    {
+        "uid": "b628956e327f87834794719da8d8bee835bad5872acab655c5a9d2441bf5fb70",
+        "licence_url": "https://beta.novascotia.ca/copyright",
+        "open": "N",
+        "attribution": "Crown copyright © Province of Nova Scotia."
+    },
+    {
+        "uid": "b5b427395ac5c5c872d8b2129ab3c0758eddf43bbf17a67b91d982c79e4524f2",
+        "licence_url": "http://novascotia.ca/opendata/licence.asp",
+        "open": "Y",
+        "attribution": "Contains information licensed under the Open Government Licence – Nova Scotia"
+    },
+    {
+        "uid": "9cb4daa26a7f933093d5e2e2ce7beffddc2655b902ca28722ef8f404b31a8de2",
+        "licence_url": "https://www.ontario.ca/page/open-government-licence-ontario",
+        "open": "Y",
+        "attribution": "Contains information licensed under the Open Government Licence – Ontario."
+    },
+    {
+        "uid": "247cd2a1550d7e5a17d22766d438e35228463900f89b91b520ddd1779a4d4be0",
+        "licence_url": "https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island",
+        "open": "Y",
+        "attribution": "Contains information licensed under the Open Government Licence – Prince Edward Island"
+    },
+    {
+        "uid": "d31856243295b7053e409ce5a2275230541e9a193b39f429867fd674892058fb",
+        "licence_url": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "open": "Y",
+        "attribution": ""
+    },
+    {
+        "uid": "b42df8d843f840b15b9c3a8561c768880a82640dd38c0f2a78236057f10c4f3f",
+        "licence_url": "https://yukon.ca/en/copyright",
+        "open": "N",
+        "attribution": "© Government of Yukon 2023"
+    },
+    {
+        "uid": "4815991940d32cd078223ef988e59bdc4683e43d5f2e952594365914d18f2a8b",
+        "licence_url": "https://www.gov.nt.ca/terms",
+        "open": "N",
+        "attribution": ""
+    },
+    {
+        "uid": "e67523eb5a02399f8a8dae31010c64549c5f7ad4349aac0758a60dac752ddbbf",
+        "licence_url": "https://www.albertahealthservices.ca/about/Page635.aspx",
+        "open": "No",
+        "attribution": "© Alberta Health Services 2023"
+    },
+    {
+        "uid": "7d40dbecabf207fc916ab2e8c9da62d90422748c5dcc91218152b8be9c90aab6",
+        "licence_url": "https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - City of Calgary."
+    },
+    {
+        "uid": "2d1965dcc5ed79da837c899039b5e4d852c77359cde3362736dc88c55aacbbb2",
+        "licence_url": "https://open.alberta.ca/licence",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - Alberta."
+    },
+    {
+        "uid": "22028dc96f9f4bc8dc1ac9e7c539b026a177559ba31cf05e42e1d0715f2bcb51",
+        "licence_url": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - British Columbia."
+    },
+    {
+        "uid": "f559ce000a5b95a1082900dc54a1f73789d1093f4da1f6dd719e70e027363ca2",
+        "licence_url": "https://www.ierha.ca/conditions-of-use/",
+        "open": "No",
+        "attribution": "©1999 -2023 Interlake Eastern RHA. All Rights Reserved."
+    },
+    {
+        "uid": "d6dc5de2c032fa3ce173adecdfe35c5f20c163ef2ffd5b39f1e434acfcc19ec3",
+        "licence_url": "Not found",
+        "open": "No",
+        "attribution": "© 2023 Northern Health Region. northernhealthregion.com"
+    },
+    {
+        "uid": "05f2004f9e06b696344a9137e3a063a5aa8b25b76cc87ec00e36c0253cc39490",
+        "licence_url": "https://www.prairiemountainhealth.ca/conditions-of-use/",
+        "open": "No",
+        "attribution": "© Prairie Mountain Health 2013 - 2023"
+    },
+    {
+        "uid": "611729d478f9980f2425bb2a440e64c195ef70d8fa950f58fa987db701aceb31",
+        "licence_url": "https://www.southernhealth.ca/en/disclaimer/",
+        "open": "No",
+        "attribution": "Copyright © 2023 Southern Health-Santé Sud"
+    },
+    {
+        "uid": "1eee4da6896edaf5b14a66ea4e5887f6b9c61554a95bb67bc1ec53f1c6946c8d",
+        "licence_url": "https://wrha.mb.ca/terms-of-use/",
+        "open": "No",
+        "attribution": "© 2023 Winnipeg Regional Health Authority"
+    },
+    {
+        "uid": "3c5bf429e6f4baa456eb15b840e364225204e68314f1a22c3aebc207f8122d45",
+        "licence_url": "https://www.gov.mb.ca/legal/copyright.html",
+        "open": "Yes",
+        "attribution": "Contains information from the Manitoba government, licensed under the OpenMB Information and Data Use Licence (Manitoba.ca/OpenMB)"
+    },
+    {
+        "uid": "97d9802db0839480429cca4ce35d35ff9ff03c5a3022c0e99ed5236e1fee6ef6",
+        "licence_url": "http://www.snb.ca/e/2000/data-E.html",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - New Brunswick."
+    },
+    {
+        "uid": "758406646a6cb01b85bfe8d437e6f41266fdfc1ea9171f415714fd9e72ae4e81",
+        "licence_url": "https://ago-item-storage.s3.us-east-1.amazonaws.com/3ec310926cbd436cbaa609d8ee9fac15/Open_Data_Terms_of_Use.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFoeMShDjMBI0qOy5gxf53BOdXkZJjl34u%2F%2FA%2FzH3Xo2AiEAmrReBWAuAse%2BMr3ba0bnHxfdXedgxbR8yRG2bMJDzoMqzQQIOBAAGgw2MDQ3NTgxMDI2NjUiDAgX7IdMiKK8gto6MyqqBAV%2FsgdVq6hty6wEirWQsPVMyZ70hNILZJvJTSE%2BC6HzBP6yTgNHy3YHVKMFIgg2q2reE2%2BMcuWmUgb79l6bVNq4CukXKvwDW1TsVCziz%2F%2FxSF2RHN0dM2mjXlDyFOxr9SN7R89d0Xaik89hWvek8G2XxbFlNVYemxUsBkRtnQ%2B2BTA%2FMvojMf%2BcFGYTL0rdVXURMwMM3vqDeJVw1QvXyt9bNMGvThC%2B6Ih5vvbJ5rG60AMlnFv8MZySkdQtWYeijtXwVeqtiPDmNzJyxiPwxBqGNKR%2FPCs%2BdcIZdnafKa71Y2U4Mjlbtgtr%2F2rOwfOuzfiYwTaF5vzjUnsljWE98SfhKwnv7lTiKTh7tUNh8nlWcafZ93sDYNx%2FjCxknm3bvfNEKhhYs8UMtyH%2BqdKIuPcm2xUNR99U0ydSjM%2Bf9PtoGm9Yvn8BL0wX%2BWvkhHIhj6jfXwgZu0wKbu7cSslF6KvERXM0Z1cPASTbGiLSI28IwZXEpjUsb45q4Icl4NtA2v2ExjS6WbCPUfSnOaAhWWsLdb2EDI%2FSPQ6XawiNu0ZJxanblB25RYCkTVGsylz%2FG1lDWYr4eS0K4lICv0d4HF3kPt0e0cA%2BWqLSyTxHn%2BVM1vNTaFcGBYplw35yh0%2FQJJHXoddPI8FYYfjDShexJzKYYC9uyv%2Berz2aA6rmeKmm%2FB9UfnDJCuRuPE1uV5mP6nfYcXY%2Fd8eQSzrNPObqsg%2Bt5mkbIxodFPAkMPeel54GOqkB4%2Fb0SCNS4YA0xp4KB0MASufhmudrGPOLtqys32OjGqAqGEhjBRVeeg%2FsZgGf5HUpdh7HbacNor3X1GxiKnr6r0KZ5siihsIrg9AQ21NYuHnERlADJt4ZPS9wQgPG06XlC7dM0HGFYzNfue9iWBhrEeJLPKGi9Sy6z%2BYwPRFcXIcTw3nXRILOo7aVuDvYpGi%2BG4aJ%2BByy3c26Ghc0nLmTTPdZxHPp6%2FpL9w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230116T232945Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAYZTTEKKERY3IHCGQ%2F20230116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=753630910c1f2d0e0648ec77ea0e49c5623da5d658fbf17413e2242cd25b41e2",
+        "open": "No",
+        "attribution": "These datasets are publicly available from the City of Moncton under these Terms of Use."
+    },
+    {
+        "uid": "abb875799c238946837046cd9f059bf71da7d833b89617f320a7258b579033e2",
+        "licence_url": "Not found",
+        "open": "No",
+        "attribution": "Not found"
+    },
+    {
+        "uid": "1f3c4b36504b5daac5395e801c98df9584be1fbf672ce6bccc659d0cbd8ff023",
+        "licence_url": "https://www.easternhealth.ca/about-us/disclaimer/",
+        "open": "No",
+        "attribution": "© Eastern Health. All rights reserved"
+    },
+    {
+        "uid": "e5a3d174970f539f93b096ee78586cedd2fe4e29df2675547a4e58e47d31e0b9",
+        "licence_url": "Not found",
+        "open": "No",
+        "attribution": "© Copyright 2016 Western Health"
+    },
+    {
+        "uid": "8d9855f2657ebb747bd9d754e5e55315f063912f7d5b5fd624df01378608ff48",
+        "licence_url": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=licence",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - Newfoundland and Labrador."
+    },
+    {
+        "uid": "c60c4c638421a0c0cb52ab9b048e087521bc0d21006c24a21724fe0831b9b3a6",
+        "licence_url": "Not found",
+        "open": "No",
+        "attribution": "© 2022 Nova Scotia"
+    },
+    {
+        "uid": "597bfaa25c09d6b34e2c24fd41166b36eb90940d3fb85ddac43c4046d4484910",
+        "licence_url": "https://novascotia.ca/opendata/licence.asp",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - Nova Scotia"
+    },
+    {
+        "uid": "782aa2d0e9e86d1f4174b0f7e936f66699b527967912b3dbdb961a939e5f5474",
+        "licence_url": "https://www.gov.nt.ca/terms",
+        "open": "No",
+        "attribution": "Not found"
+    },
+    {
+        "uid": "ec34237716eda841cff13465b160815fe8c6bd0c332a7689528ec1d3dcb1a28d",
+        "licence_url": "https://open.toronto.ca/open-data-license/",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - Toronto."
+    },
+    {
+        "uid": "2a4cfc46ef3808fc66ef1de59eb334e2509a82957643d5f793171b0dbed8d496",
+        "licence_url": "https://www.ontario.ca/page/open-government-licence-ontario",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - Ontario."
+    },
+    {
+        "uid": "84047f169eb8127525dc2ce91848587db88e788bb47f366266e05603a3cac3c6",
+        "licence_url": "https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions",
+        "open": "Yes",
+        "attribution": "Contains public sector Data made available under the City of Hamilton's Open Data Licence"
+    },
+    {
+        "uid": "b22711ec4d5aedf8039c8149859098facbb3721e7f74c311e8789be488e250aa",
+        "licence_url": "https://open.hamilton.ca/datasets/e37b13a002544e359350c31b2d48ee47_10/explore",
+        "open": "Yes",
+        "attribution": "Contains public sector Data made available under the City of Hamilton's Open Data Licence"
+    },
+    {
+        "uid": "7a2de2fcbcc524488bfca7bd36e2d1ab1a3ef47ab0608ccfa9312742d50ab996",
+        "licence_url": "https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#section-7d58affa-59a3-47f2-932d-ccb75000cefc",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence – City of Ottawa."
+    },
+    {
+        "uid": "d521eb5298fdb5d7c98c5b448623d049db07784e1ad87a37979e460d088985b3",
+        "licence_url": "https://www.durham.ca/en/regional-government/resources/Documents/OpenDataLicenceAgreement.pdf",
+        "open": "Yes",
+        "attribution": "Contains public sector Information made available under The Regional Municipality of Durham's Open Data Licence "
+    },
+    {
+        "uid": "8e54bf40b3c2f806584bc2bf765403f615df70cbab792d76cbad6b91790c5aee",
+        "licence_url": "http://insights-york.opendata.arcgis.com/datasets/york-region-open-data-licence",
+        "open": "Yes",
+        "attribution": "Contains public sector information made available under The Regional Municipality of York's Open Data Licence"
+    },
+    {
+        "uid": "d8e7bb7f3c528d15e522258efb96bcc77fc9560f557cb8de704d5217d193b83c",
+        "licence_url": "http://data.open.guelph.ca/pages/open-government-licence",
+        "open": "Yes",
+        "attribution": "Contains information provided by the City of Guelph under an open government license"
+    },
+    {
+        "uid": "c2bdacefcb0f1f19b702a4f4f7a2b1d2b14437795fbb2081627c9cedfb1896d5",
+        "licence_url": "https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island",
+        "open": "Yes",
+        "attribution": "Contains information licensed under the Open Government Licence - Prince Edward Island"
+    },
+    {
+        "uid": "74a1a7ab03ffbedf1804418721f137c31e27583f707358d5544091aad2003bec",
+        "licence_url": "https://santemontreal.qc.ca/en/enregistrements/menu-barre-pied-de-page/",
+        "open": "No",
+        "attribution": "© Gouvernment du Québec, 2016"
+    },
+    {
+        "uid": "e1eb5b82c367f317361838d4ac50f6bcffb074f34c2ddff05ee0cf4f0ccc0f5f",
+        "licence_url": "https://www.donneesquebec.ca/licence/#cc-by",
+        "open": "Yes",
+        "attribution": "Licensed from the City of Gatineau under a Creative Commons CC-BY license."
+    },
+    {
+        "uid": "432440ff9ead0d2f2b8e447e62ddcbbf30784ddefb50b32d534d648c6393515a",
+        "licence_url": "https://www.donneesquebec.ca/licence/#cc-by",
+        "open": "Yes",
+        "attribution": "CC BY 4.0"
+    },
+    {
+        "uid": "56a0f7d76196a1845dd4c00b161fccfcebf9433f26aa7f57a235f34745cd5eab",
+        "licence_url": "https://creativecommons.org/licenses/by/4.0/legalcode.fr",
+        "open": "Yes",
+        "attribution": "CC BY 4.0"
+    },
+    {
+        "uid": "791b5c936733bd4ba7c8c56f3a6f417854047827cb9644d39201dacd6e0ab78a",
+        "licence_url": "https://www.saskhealthauthority.ca/terms-use-privacy",
+        "open": "No",
+        "attribution": "© Saskatchewan Health Authority 2023"
+    },
+    {
+        "uid": "e693d6ede39097def20d77ef8cbf0794176b5889bc0c75b147d3a2fb7bc1e911",
+        "licence_url": "https://www.saskatchewan.ca/copyright",
+        "open": "No",
+        "attribution": "© 2021, Government of Saskatchewan."
+    },
+    {
+        "uid": "705a63d84af1243b99597ebd26e8062b8f2853c53d1b0929739d909c84adf556",
+        "licence_url": "https://yukonhospitals.ca/en/terms-of-use",
+        "open": "No",
+        "attribution": "© 2022 Yukon Hospital Corporation"
+    },
+    {
+        "uid": "024bb1372d5b309be0fdce0d3514b9fcc254da613fb5dc5e9d5b8e2f06d23ea1",
+        "licence_url": "https://www.gov.nt.ca/en/open-government-licence-northwest-territories",
+        "open": "Yes",
+        "attribution": "Open Government Licence Northwest Territories"
+    }
+]
