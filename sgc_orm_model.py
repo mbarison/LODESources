@@ -1,33 +1,20 @@
 # create an ORM model in sqlalchemy
 
-import os, sys, json
+import sys
 import pandas as pd
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
 
-
-# sys.path.append(os.path.join(os.path.dirname(__file__), "models"))
-
-from models import *
-from utils import upload
-
-# read connection data
-with open("connect.json", "r") as f:
-    conn_data = json.load(f)
-
-Username = conn_data["Username"]
-Password = conn_data["Password"]
-Hostname = conn_data["Hostname"]
-Port = conn_data["Port"]
-Database = conn_data["Database"]
-
-engine = create_engine(
-    f"postgresql+psycopg2://{Username}:{Password}@{Hostname}:{Port}/{Database}",
-    echo=True,
+from models import (
+    Base,
+    StandardGeographicClassificationLevel,
+    StandardGeographicClassification,
+    Domain,
+    SGCSubType,
+    Provider,
 )
+from utils import create_and_upload, create_session, get_existing_tables
 
-sesh = sessionmaker(bind=engine)()
+engine, sesh = create_session("connect.json")
 
 print(Base.metadata.tables.keys())
 
@@ -42,38 +29,22 @@ print(Base.metadata.tables.keys())
 
 # sys.exit()
 
-StandardGeographicClassificationLevel.__table__.create(engine)
+classes = {
+    StandardGeographicClassificationLevel: "sgc_levels.json",
+    SGCSubType: "sgc_subtypes.json",
+    StandardGeographicClassification: "sgc_consolidated_2021.json",
+    Domain: "domains.json",
+}
 
-print(Base.metadata.tables.keys())
+existing_tables = get_existing_tables(engine)
 
-df2 = pd.read_json("sgc_levels.json", orient="records")
+for c, infile in classes.items():
+    if c.__tablename__ not in existing_tables.keys():
+        create_and_upload(sesh, engine, c, f"data/{infile}")
+    else:
+        print("Skipping", c.__tablename__)
 
-upload(sesh, StandardGeographicClassificationLevel, df2)
-
-
-StandardGeographicClassification.__table__.create(engine)
-
-
-# load the data into the ORM model
-df = pd.read_json("sgc_consolidated_2021.json", orient="records")
-
-upload(sesh, StandardGeographicClassification, df)
-
-
-Domain.__table__.create(engine)
-
-df3 = pd.read_json("domains.json", orient="records")
-
-upload(Domain, df3)
-
-
-SGCSubType.__table__.create(engine)
-
-df4 = pd.read_json("sgc_subtypes.json", orient="records")
-
-upload(SGCSubType, df4)
-
-sys.exit()
+sys.exit(0)
 
 Provider.__table__.create(engine)
 
